@@ -1,0 +1,21 @@
+car_make,car_model,car_year,price
+dodge,NULL,2018,18000
+ford ,focus,2018,18000
+ford ,explorer,2019,21000
+NULL,ram,2019,32000
+dodge,durango,2020,16000
+ford ,focus,2020,17000
+ford ,explorer,2017,17000
+dodge,ram,2017,12000
+NULL,outlander,2016,13000
+NULL,outlander,NULL,18000
+GMC,Terrain,NULL,18000
+GMC,Sierra,2018,21000
+ford ,explorer,2019,32000
+dodge,NULL,2019,16000
+mitsubishi,NULL,2020,17000
+mitsubishi,outlander,2020,NULL
+GMC,Terrain,2017,NULL
+GMC,Sierra,2017,13000
+, ,,
+,, ,
