@@ -1,0 +1,11 @@
+order_id,salesperson,sale_date,quantitiy,sale_usd,customer_id
+113,Paul Sereno,2022-08-12,4,82,333
+114,Paul Sereno,2022-08-31,2,69,338
+115,Edward Cope,2022-09-05,4,65,337
+116,Robe,2022-09-26,6,74,334
+117,Othniel Marsh,2022-10-04,4,70,335
+118,Robert Bakker,2022-10-23,4,96,336
+119,Paul Sereno,2022-11-11,5,91,334
+120,Robert Bakker,2022-12-31,5,91,335
+121,Othniel Marsh,2023-01-01,4,92,336
+122,Edward Cope,2023-01-23,3,53,337
