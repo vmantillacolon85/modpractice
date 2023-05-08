@@ -1,0 +1,7 @@
+post_id,poster,post_text,post_keywords,post_date
+0,2,The Lakers game from last night was great.,"[basketball,lakers,nba]",1/1/19
+1,1,Lebron James is top class.,"[basketball,lebron_james,nba]",1/2/19
+2,2,Asparagus tastes OK.,"[asparagus,food]",1/1/19
+3,1,Spaghetti is an Italian food.,"[spaghetti,food]",1/2/19
+4,3,User 3 is not sharing interests,[#spam#],1/1/19
+5,3,User 3 posts SPAM content a lot,[#spam#],1/2/19
