@@ -1,0 +1,467 @@
+,Name,location_lat,location_lng,Date,Date Expanded (times in EST),Year,Price as number,Price,Style,borough,street,city,state,country
+0,Angelos Pizza,40.6232544,-73.9379224,2022-1014,"Oct 14th 2022, 5:57:51 pm",2022,3.0,$3.00 ,Plain,Brooklyn,Flatbush Avenue,City of New York,New York,United States
+1,Ozone Pizzeria,40.6808917,-73.8426307,2022-1008,"Oct 8th 2022, 6:48:59 pm",2022,3.0,$3.00 ,Plain,Queens,Liberty Avenue,City of New York,New York,United States
+2,Pino Pizza,40.6000148,-73.9994551,2022-1003,"Oct 3rd 2022, 5:47:23 pm",2022,2.75,$2.75 ,Plain,Brooklyn,21st Avenue,City of New York,New York,United States
+3,La Rondine,40.7133354,-73.8294102,2022-0924,"Sep 24th 2022, 6:34:19 pm",2022,3.25,$3.25 ,Plain,Queens,Queens Boulevard,City of New York,New York,United States
+4,Rony's Fresh Pizza,40.7482509,-73.9923498,2022-0915,"Sep 15th 2022, 6:23:16 pm",2022,1.0,$1.00 ,Plain,Manhattan,West 30th Street,City of New York,New York,United States
+5,John & Joe's Pizzeria,40.8545616,-73.8658818,2022-0909,"Sep 9th 2022, 8:48:44 pm",2022,3.5,$3.50 ,Plain,Bronx,Lydig Avenue,City of New York,New York,United States
+6,Prego's Pizza,40.8631291,-73.8585108,2022-0909,"Sep 9th 2022, 5:13:31 pm",2022,3.0,$3.00 ,Plain,Bronx,Mace Avenue,City of New York,New York,United States
+7,N & D Pizza,40.6004632,-73.9430724,2022-0905,"Sep 5th 2022, 4:37:08 pm",2022,3.35,$3.35 ,Plain,Brooklyn,Avenue U,City of New York,New York,United States
+8,Peppinos,40.9036613,-73.8504668,2022-0818,"Aug 18th 2022, 9:23:01 pm",2022,3.0,$3.00 ,Plain,Bronx,East 241st Street,City of New York,New York,United States
+9,Roccos Pizzeria,40.8676344,-73.8836046,2022-0813,"Aug 13th 2022, 8:53:26 pm",2022,3.5,$3.50 ,Plain,Bronx,Bedford Park Boulevard,City of New York,New York,United States
+10,Ciro Pizza Cafe,40.5332892,-74.1927755,2022-0812,"Aug 12th 2022, 9:34:49 pm",2022,2.5,$2.50 ,Plain,Staten Island,Huguenot Avenue,City of New York,New York,United States
+11,Baxter Street Pizza,40.7166726,-73.9996701,2022-0802,"Aug 2nd 2022, 7:25:34 pm",2022,3.81,$3.81 ,Plain,Manhattan,Baxter Street,City of New York,New York,United States
+12,Pizza Chef,40.8855857,-73.9103776,2022-0729,"Jul 29th 2022, 6:43:32 pm",2022,4.35,$4.35 ,Pepperoni,Bronx,West 235th Street,City of New York,New York,United States
+13,Galleria pizza,40.6843262,-73.8450002,2022-0723,"Jul 23rd 2022, 9:20:46 pm",2022,3.0,$3.00 ,Plain,Queens,Woodhaven Boulevard,City of New York,New York,United States
+14,Emilio's Pizza,40.8679105,-73.9004894,2022-0722,"Jul 22nd 2022, 4:58:14 pm",2022,3.25,$3.25 ,Plain,Bronx,West Kingsbridge Road,City of New York,New York,United States
+15,Bella Napoli Pizza & Pasta,40.865699,-73.864609,2022-0721,"Jul 21st 2022, 7:38:54 pm",2022,3.0,$3.00 ,Plain,Bronx,Allerton Avenue,City of New York,New York,United States
+16,Gravesend Pizza,40.6556156,-74.0033705,2022-0708,"Jul 8th 2022, 7:25:09 pm",2022,3.0,$3.00 ,Plain,Brooklyn,34th Street,City of New York,New York,United States
+17,Jojo's Pizza,40.6550446,-73.9160506,2022-0701,"Jul 1st 2022, 5:24:33 pm",2022,3.0,$3.00 ,Plain,Brooklyn,Church Avenue,City of New York,New York,United States
+18,Pizza Stop,40.8048198,-73.9547643,2022-0604,"Jun 4th 2022, 7:50:38 pm",2022,3.0,$3.00 ,Plain,Manhattan,Frederick Douglass Boulevard,City of New York,New York,United States
+19,Joe and Johns Pizzeria,40.7003521,-73.8994387,2022-0528,"May 28th 2022, 5:18:46 pm",2022,3.0,$3.00 ,Plain,Queens,Myrtle Avenue,City of New York,New York,United States
+20,Enzo's Pizzeria,40.6842128,-73.8593422,2022-0527,"May 27th 2022, 8:14:56 pm",2022,3.26,$3.26 ,Plain,Queens,81st Street,City of New York,New York,United States
+21,On The Run Pizza,40.5768705,-73.9846206,2022-0521,"May 21st 2022, 6:21:40 pm",2022,3.0,$3.00 ,Plain,Brooklyn,Mermaid Avenue,City of New York,New York,United States
+22,DiLeo's Pizzeria,40.610693,-74.146137,2022-0520,"May 20th 2022, 9:41:35 pm",2022,2.75,$2.75 ,Plain,Staten Island,Stewart Avenue,City of New York,New York,United States
+23,Corona Pizza,40.7434508,-73.8547152,2022-0513,"May 13th 2022, 5:33:57 pm",2022,3.0,$3.00 ,Plain,Queens,52nd Avenue,City of New York,New York,United States
+24,Valentine's Pizza,40.68753,-73.954427,2022-0513,"May 13th 2022, 2:51:48 am",2022,4.5,$4.50 ,Pepperoni,Brooklyn,Bedford Avenue,City of New York,New York,United States
+25,iPizza NY,40.7608035,-73.9906251,2022-0512,"May 12th 2022, 10:28:11 pm",2022,3.76,$3.76 ,Plain,Manhattan,West 46th Street,City of New York,New York,United States
+26,S & S CALABRO PIZZERIA,40.6249135,-73.9993503,2022-0507,"May 7th 2022, 8:39:03 pm",2022,2.75,$2.75 ,Plain,Brooklyn,65th Street,City of New York,New York,United States
+27,Sofia Pizza II,40.5989761,-73.9372106,2022-0506,"May 6th 2022, 5:36:41 pm",2022,2.75,$2.75 ,Plain,Brooklyn,Avenue V,City of New York,New York,United States
+28,Fontana Famous Pizza and Gyro,40.7575064,-73.7829253,2022-0428,"Apr 28th 2022, 9:03:59 pm",2022,3.25,$3.25 ,Plain,Queens,Northern Boulevard,City of New York,New York,United States
+29,Austin Street Pizza,40.7195744,-73.8426559,2022-0422,"Apr 22nd 2022, 5:59:32 pm",2022,3.24,$3.24 ,Plain,Queens,Austin Street,City of New York,New York,United States
+30,Villa Rustica Ristorante & Pizzeria,40.7399635,-73.758249,2022-0416,"Apr 16th 2022, 5:59:19 pm",2022,3.5,$3.50 ,Plain,Queens,Bell Boulevard,City of New York,New York,United States
+31,Domy's Pizza Cafe,40.8164641,-73.9027071,2022-0409,"Apr 9th 2022, 8:48:57 pm",2022,2.75,$2.75 ,Plain,Bronx,Prospect Avenue,City of New York,New York,United States
+32,Pizza Town,40.717725,-73.9998831,2022-0406,"Apr 6th 2022, 7:36:50 pm",2022,2.0,$2.00 ,Plain,Manhattan,Walker Street,City of New York,New York,United States
+33,Marinara Pizza,40.7297781,-73.9865052,2022-0322,"Mar 22nd 2022, 7:55:54 pm",2022,4.9,$4.90 ,Pepperoni,Manhattan,2nd Avenue,City of New York,New York,United States
+34,Marinara Pizza,40.7297781,-73.9865052,2022-0322,"Mar 22nd 2022, 7:55:54 pm",2022,4.9,$4.90 ,Pepperoni,Manhattan,2nd Avenue,City of New York,New York,United States
+35,Big John's Pizza - Queens Village NY,40.7185614,-73.7358451,2022-0318,"Mar 18th 2022, 5:21:16 pm",2022,2.75,$2.75 ,Plain,Queens,Jamaica Avenue,City of New York,New York,United States
+36,Daro's Pizza,40.7534698,-73.8218842,2022-0312,"Mar 12th 2022, 6:47:15 pm",2022,3.0,$3.00 ,Plain,Queens,Kissena Boulevard,City of New York,New York,United States
+37,Rockys Pizzeria,40.6461233,-73.9711041,2022-0303,"Mar 3rd 2022, 9:20:52 pm",2022,3.0,$3.00 ,Plain,Brooklyn,Coney Island Avenue,City of New York,New York,United States
+38,Luigi's Pizza,40.5785196,-73.958008,2022-0226,"Feb 26th 2022, 8:01:23 pm",2022,3.0,$3.00 ,Plain,Brooklyn,Brighton Beach Avenue,City of New York,New York,United States
+39,The Original Pizza Sam,40.7560589,-73.8785423,2022-0218,"Feb 18th 2022, 5:10:24 pm",2022,3.27,$3.27 ,Plain,Queens,Northern Boulevard,City of New York,New York,United States
+40,Sal Pizza,40.7045071,-73.919242,2022-0205,"Feb 5th 2022, 10:41:00 pm",2022,2.75,$2.75 ,Plain,Brooklyn,Wyckoff Avenue,City of New York,New York,United States
+41,Bad Boys Pizza,40.60351362,-73.9865831,2022-0204,"Feb 4th 2022, 7:17:39 pm",2022,3.5,$3.50 ,Stuffed Crust Plain,Brooklyn,Stillwell Avenue,City of New York,New York,United States
+42,Mama Mia Pizzeria,40.5965296,-73.9939644,2022-0204,"Feb 4th 2022, 5:14:57 pm",2022,3.0,$3.00 ,Plain,Brooklyn,Bath Avenue,City of New York,New York,United States
+43,Spiro's Cafe & Pizza,40.654758,-74.004358,2022-0203,"Feb 3rd 2022, 4:36:22 pm",2022,2.75,$2.75 ,Plain,Brooklyn,4th Avenue,City of New York,New York,United States
+44,La Vera Pizza & Restaurant 2447 Broadway New York 10025,40.7912008,-73.9748165,2022-0128,"Jan 28th 2022, 6:18:00 pm",2022,2.75,$2.75 ,Plain,Manhattan,Broadway,City of New York,New York,United States
+45,Lenny And Johns Pizzeria,40.6201361,-73.9345585,2022-0121,"Jan 21st 2022, 8:38:59 pm",2022,3.0,$3.00 ,Plain,Brooklyn,Flatbush Avenue,City of New York,New York,United States
+46,My Place Family Pizza,40.8691518,-73.8896161,2022-0120,"Jan 20th 2022, 2:24:28 am",2022,3.0,$3.00 ,Plain,Bronx,East 198th Street,City of New York,New York,United States
+47,Yankee J-Z Pizza Inc,40.8294396,-73.87575,2022-0120,"Jan 20th 2022, 12:48:52 am",2022,3.0,$3.00 ,Plain,Bronx,Stratford Avenue,City of New York,New York,United States
+48,Circle Pizza,40.8324594,-73.8610744,2022-0119,"Jan 19th 2022, 10:44:59 pm",2022,3.0,$3.00 ,Plain,Bronx,Hugh J. Grant Circle,City of New York,New York,United States
+49,Daisy's Pizza Place Inc,40.81692834,-73.89787505,2022-0118,"Jan 18th 2022, 11:33:38 pm",2022,2.5,$2.50 ,Plain,Bronx,Beck Street,City of New York,New York,United States
+50,Sam's Famous Pizza 116th,40.798309,-73.941632,2022-0115,"Jan 15th 2022, 9:00:23 pm",2022,3.0,$3.00 ,Plain,Manhattan,East 116th Street,City of New York,New York,United States
+51,La Loteria Pizzeria,40.854174,-73.89901,2022-0114,"Jan 14th 2022, 8:46:50 pm",2022,3.0,$3.00 ,Plain,Bronx,Valentine Avenue,City of New York,New York,United States
+52,Monte Pizza,40.85994,-73.89395,2022-0110,"Jan 10th 2022, 9:21:36 pm",2022,3.0,$3.00 ,Plain,Bronx,East 188th Street,City of New York,New York,United States
+53,Natalie pizza,40.7078242,-73.8030173,2022-0107,"Jan 7th 2022, 7:47:36 pm",2022,2.5,$2.50 ,Plain,Queens,Hillside Avenue,City of New York,New York,United States
+54,Rosebank Pizza,40.61008,-74.06334,2022-0107,"Jan 7th 2022, 2:47:09 am",2022,3.0,$3.00 ,Plain,Staten Island,Bay Street,City of New York,New York,United States
+55,Samaria Pizzeria,40.76566391,-73.93079401,2022-0106,"Jan 6th 2022, 3:59:58 pm",2022,2.75,$2.75 ,Plain,Queens,Broadway,City of New York,New York,United States
+56,Pizza Italia,40.822888,-73.84862,2021-1231,"Dec 31st 2021, 1:46:08 pm",2021,5.0,$5.00 ,Jumbo,Bronx,Castle Hill Avenue,City of New York,New York,United States
+57,Gianni Pizza of Jackson Heights,40.7557169,-73.8857946,2021-1225,"Dec 25th 2021, 1:01:38 am",2022,3.0,$3.00 ,Plain,Queens,Northern Boulevard,City of New York,New York,United States
+58,Gianni Pizza of Jackson Heights,40.75577,-73.88578,2021-1224,"Dec 24th 2021, 7:01:38 pm",2021,3.0,$3.00 ,Plain,Queens,Northern Boulevard,City of New York,New York,United States
+59,Table 87 Coal Oven Pizza,40.6561793,-74.00797374,2021-1224,"Dec 24th 2021, 11:37:09 am",2021,4.0,$4.00 ,Plain,Brooklyn,36th Street,City of New York,New York,United States
+60,Brothers pizza shop,40.86726,-73.89639,2021-1221,"Dec 21st 2021, 6:37:26 pm",2021,2.5,$2.50 ,Plain,Bronx,East Kingsbridge Road,City of New York,New York,United States
+61,Tony Gs Pizza,40.86708,-73.89603,2021-1221,"Dec 21st 2021, 6:31:29 pm",2021,3.0,$3.00 ,Plain,Bronx,East Kingsbridge Road,City of New York,New York,United States
+62,D'Angelo's Pizzeria,40.7340393,-73.8497391,2021-1218,"Dec 18th 2021, 11:10:22 am",2021,3.25,$3.25 ,Plain,Queens,108th Street,City of New York,New York,United States
+63,Euro Pizza,40.55962148,-74.1682369,2021-1216,"Dec 16th 2021, 5:13:45 pm",2021,3.5,$3.50 ,Plain,Staten Island,Richmond Avenue,City of New York,New York,United States
+64,PG Pizza,40.83381,-73.91519,2021-1211,"Dec 11th 2021, 1:27:43 pm",2021,3.0,$3.00 ,Plain,Bronx,East 167th Street,City of New York,New York,United States
+65,Upside Pizza,40.7550912,-73.9911494,2021-1209,"Dec 9th 2021, 1:49:02 pm",2021,3.5,$3.50 ,Plain,Manhattan,8th Avenue,City of New York,New York,United States
+66,Koronet Pizzeria,40.80447,-73.96616,2021-1204,"Dec 4th 2021, 12:14:29 pm",2021,5.5,$5.50 ,Jumbo,Manhattan,Broadway,City of New York,New York,United States
+67,Slice of Harlem Pizzeria,40.81668,-73.946594,2021-1203,"Dec 3rd 2021, 2:06:04 pm",2021,3.25,$3.25 ,Plain,Manhattan,Frederick Douglass Boulevard,City of New York,New York,United States
+68,Lennys Pizza,40.65099,-73.94882,2021-1120,"Nov 20th 2021, 3:11:39 pm",2021,2.5,$2.50 ,Plain,Brooklyn,Church Avenue,City of New York,New York,United States
+69,Royal Pizzeria Restaurant Inc,40.6550694,-73.8877085,2021-1120,"Nov 20th 2021, 12:32:15 pm",2021,3.0,$3.00 ,Plain,Brooklyn,Pennsylvania Avenue,City of New York,New York,United States
+70,Joe's Pizza & Pasta,40.76016292,-73.73149091,2021-1119,"Nov 19th 2021, 2:41:16 pm",2021,3.0,$3.00 ,Plain,Queens,Marathon Parkway,City of New York,New York,United States
+71,Pizza Place,40.8890631,-73.859549,2021-1118,"Nov 18th 2021, 9:36:03 pm",2022,3.25,$3.25 ,Plain,Bronx,White Plains Road,City of New York,New York,United States
+72,Pizza Place,40.889035,-73.859444,2021-1118,"Nov 18th 2021, 3:36:03 pm",2021,3.25,$3.25 ,Plain,Bronx,East 227th Street,City of New York,New York,United States
+73,Angies Cafe & Pizza,40.81153,-73.927071,2021-1106,"Nov 6th 2021, 4:21:26 pm",2021,2.75,$2.75 ,Plain,Bronx,3rd Avenue,City of New York,New York,United States
+74,Pizza Amore,40.6505369,-73.7016973,2021-1105,"Nov 5th 2021, 8:13:20 pm",2021,3.0,$3.00 ,Plain,,Dubois Avenue,,New York,United States
+75,Landy's Pizzeria,40.61735,-74.02738,2021-1030,"Oct 30th 2021, 8:23:41 pm",2021,3.0,$3.00 ,Plain,Brooklyn,Fort Hamilton Parkway,City of New York,New York,United States
+76,La Sorrentina Restaurant,40.57845,-73.84928,2021-1030,"Oct 30th 2021, 7:01:27 pm",2021,3.0,$3.00 ,Plain,Queens,Beach 129th Street,City of New York,New York,United States
+77,Pizza D'Amore,40.61475744,-73.91270424,2021-1024,"Oct 24th 2021, 6:16:10 pm",2021,2.75,$2.75 ,Plain,Brooklyn,Mill Avenue,City of New York,New York,United States
+78,Tigre's Pizza,40.84464,-73.9073,2021-1023,"Oct 23rd 2021, 8:51:36 pm",2021,2.5,$2.50 ,Plain,Bronx,East 174th Street,City of New York,New York,United States
+79,Frank's Bay Pizza,40.62484,-74.07934,2021-1022,"Oct 22nd 2021, 6:07:19 pm",2021,2.5,$2.50 ,Plain,Staten Island,Canal Street,City of New York,New York,United States
+80,La Bona Pizza & Pasta,40.6737,-73.88283,2021-1016,"Oct 16th 2021, 6:58:35 pm",2021,2.75,$2.75 ,Plain,Brooklyn,Pitkin Avenue,City of New York,New York,United States
+81,PG Pizza,40.82622,-73.917751,2021-1015,"Oct 15th 2021, 10:37:18 pm",2021,2.75,$2.75 ,Plain,Bronx,Morris Avenue,City of New York,New York,United States
+82,Mario's Pizza,40.65763,-73.76724,2021-1009,"Oct 9th 2021, 11:02:31 pm",2021,3.0,$3.00 ,Plain,Queens,Guy R. Brewer Boulevard,City of New York,New York,United States
+83,Margherita Pizza Inc.,40.70453082,-73.79679273,2021-1008,"Oct 8th 2021, 7:14:13 pm",2021,3.5,$3.50 ,Plain,Queens,Jamaica Avenue,City of New York,New York,United States
+84,Tony's Pizza,40.66485,-73.92329,2021-1003,"Oct 3rd 2021, 12:13:21 am",2021,2.75,$2.75 ,Plain,Brooklyn,Rutland Road,City of New York,New York,United States
+85,Pronto Pizza,40.75824,-73.98063,2021-0922,"Sep 22nd 2021, 6:36:47 pm",2021,4.5,$4.50 ,Pepperoni,Manhattan,West 48th Street,City of New York,New York,United States
+86,Artichoke Basille’s Pizza - Times Square,40.75332,-73.98698,2021-0921,"Sep 21st 2021, 9:40:02 pm",2021,6.53,$6.53 ,Pepperoni,Manhattan,Broadway,City of New York,New York,United States
+87,Bambinos Express,40.7020409,-73.9066829,2021-0828,"Aug 28th 2021, 2:21:30 am",2021,2.5,$2.50 ,Plain,Queens,Seneca Avenue,City of New York,New York,United States
+88,620 On Caton Pizzeria,40.64755,-73.97392,2021-0828,"Aug 28th 2021, 10:22:41 pm",2021,3.0,$3.00 ,Plain,Brooklyn,Caton Avenue,City of New York,New York,United States
+89,Champion Pizza,40.73602,-73.99404,2021-0816,"Aug 16th 2021, 8:49:22 pm",2021,4.25,$4.25 ,Pepperoni,Manhattan,West 14th Street,City of New York,New York,United States
+90,Belmora Pizza & Restaurant,40.76095,-73.96879,2021-0811,"Aug 11th 2021, 9:32:05 pm",2021,3.2,$3.20 ,Plain,Manhattan,East 57th Street,City of New York,New York,United States
+91,Sunset Park Pizza,40.64547,-73.99539,2021-0809,"Aug 9th 2021, 6:08:22 pm",2021,2.0,$2.00 ,Plain,Brooklyn,9th Avenue,City of New York,New York,United States
+92,Giovanni S Pizza,40.83522,-73.92016,2021-0802,"Aug 2nd 2021, 7:31:04 pm",2021,2.0,$2.00 ,Plain,Bronx,East 167th Street,City of New York,New York,United States
+93,Slice Joint,40.71821,-73.98815,2021-0730,"Jul 31st 2021, 2:50:50 am",2021,4.36,$4.36 ,Pepperoni,Manhattan,Essex Street,City of New York,New York,United States
+94,Sacco Pizza,40.76623,-73.98717,2021-0726,"Jul 26th 2021, 10:20:42 pm",2021,2.5,$2.50 ,Plain,Manhattan,9th Avenue,City of New York,New York,United States
+95,Gino's of Broadway,40.75757009,-73.91588521,2021-0724,"Jul 25th 2021, 6:10:01 am",2021,2.75,$2.75 ,Plain,Queens,Broadway,City of New York,New York,United States
+96,Two Boots Pizza,40.73308,-74.00277,2021-0717,"Jul 17th 2021, 6:00:27 pm",2021,4.0,$4.00 ,Pepperoni,Manhattan,Grove Street,City of New York,New York,United States
+97,Marinara Pizza,40.74241,-73.98452,2021-0713,"Jul 13th 2021, 3:38:07 pm",2021,4.36,$4.36 ,Pepperoni,Manhattan,Park Avenue South,City of New York,New York,United States
+98,Casabianca Family Italian Ristorante & Pizzeria,40.76944,-73.9889,2021-0709,"Jul 9th 2021, 10:19:06 pm",2021,3.0,$3.00 ,Plain,Manhattan,West 57th Street,City of New York,New York,United States
+99,Hank's Pizza,40.7094362,-74.0120253,2021-0707,"Jul 7th 2021, 7:32:56 pm",2021,4.35,$4.35 ,Plain,Manhattan,Cedar Street,City of New York,New York,United States
+100,Hank's Pizza,40.7094362,-74.0120253,2021-0707,"Jul 7th 2021, 7:32:56 pm",2021,3.25,$3.25 ,Plain,Manhattan,Cedar Street,City of New York,New York,United States
+101,Enzo & Claudio,40.7462825,-73.9936734,2021-0627,"Jun 27th 2021, 9:43:07 pm",2021,3.27,$3.27 ,Plain,Manhattan,7th Avenue,City of New York,New York,United States
+102,Joe's Pizza,40.71687,-73.95892,2021-0626,"Jun 26th 2021, 6:24:51 pm",2021,3.0,$3.00 ,Plain,Brooklyn,Bedford Avenue,City of New York,New York,United States
+103,Pizza Prince,40.7237277,-73.9504086,2021-0617,"Jun 17th 2021, 9:07:26 pm",2021,3.0,$3.00 ,Plain,Brooklyn,Manhattan Avenue,City of New York,New York,United States
+104,Vito's Slices and Pizza,40.7545,-73.9952799,2021-0616,"Jun 16th 2021, 3:38:29 pm",2021,3.0,$3.00 ,Plain,Manhattan,9th Avenue,City of New York,New York,United States
+105,Papa John's Pizza,40.69173293,-73.98637801,2021-0614,"Jun 14th 2021, 1:22:59 pm",2021,1.0,$1.00 ,Plain,Brooklyn,Lawrence Street,City of New York,New York,United States
+106,Wegmans,40.6982082,-73.9770145,2021-0527,"May 27th 2021, 6:05:11 pm",2021,3.81,$3.81 ,Pepperoni,Brooklyn,Flushing Avenue,City of New York,New York,United States
+107,Pizza Market,40.746467,-73.990096,2021-0521,"May 21st 2021, 6:00:57 pm",2021,1.0,$1.00 ,Plain,Manhattan,6th Avenue,City of New York,New York,United States
+108,Zazzy's Pizza,40.7365892,-74.0013125,2021-0514,"May 14th 2021, 6:47:11 pm",2021,3.27,$3.27 ,Plain,Manhattan,West 11th Street,City of New York,New York,United States
+109,Michelangelo's Pizza,40.63087,-74.12967,2021-0511,"May 11th 2021, 6:01:12 pm",2021,2.5,$2.50 ,Plain,Staten Island,Post Avenue,City of New York,New York,United States
+110,Gino's Cucina Brick Oven Pizza,40.67522,-73.9631,2021-0511,"May 11th 2021, 2:02:50 am",2021,3.0,$3.00 ,Plain,Brooklyn,Washington Avenue,City of New York,New York,United States
+111,Julie's Pizzeria & Restaurant,40.70416,-73.9073,2021-0417,"Apr 17th 2021, 12:37:00 pm",2021,2.0,$2.00 ,Plain,Queens,Onderdonk Avenue,City of New York,New York,United States
+112,Burrata Pizza,40.73021,-73.98069,2021-0416,"Apr 16th 2021, 11:07:56 pm",2021,4.0,$4.00 ,Pepperoni,Manhattan,Avenue A,City of New York,New York,United States
+113,Via Ponte Pizzeria,40.5980108,-74.0669935,2021-0409,"Apr 9th 2021, 9:44:53 pm",2021,2.75,$2.75 ,Plain,Staten Island,McClean Avenue,City of New York,New York,United States
+114,11B Express,40.727429,-73.979695,2021-0403,"Apr 3rd 2021, 5:15:52 pm",2021,3.0,$3.00 ,Plain,Manhattan,Avenue B,City of New York,New York,United States
+115,NY 99¢ Fresh Pizza,40.7332919,-74.0028356,2021-0403,"Apr 3rd 2021, 4:34:33 pm",2021,1.0,$1.00 ,Plain,Manhattan,Grove Street,City of New York,New York,United States
+116,Norm’s Pizza,40.6931218,-73.9889093,2021-0315,"Mar 15th 2021, 3:49:16 pm",2021,3.0,$3.00 ,Plain,Brooklyn,Adams Street,City of New York,New York,United States
+117,Pier 76,40.64015042,-74.0757603,2021-0304,"Mar 4th 2021, 2:39:38 pm",2021,3.81,$3.81 ,Sicilian,Staten Island,Bay Street,City of New York,New York,United States
+118,Danny's Pizzeria,40.7220677,-73.9042865,2021-0208,"Feb 8th 2021, 4:16:16 pm",2021,2.75,$2.75 ,Plain,Queens,Grand Avenue,City of New York,New York,United States
+119,San Remo's Pizza,40.64081,-73.96493,2021-0128,"Jan 28th 2021, 2:32:51 pm",2021,3.0,$3.00 ,Plain,Brooklyn,Cortelyou Road,City of New York,New York,United States
+120,Antonio's Pizzeria & Cafe,40.69294,-73.99097,2021-0125,"Jan 25th 2021, 2:01:10 pm",2021,3.0,$3.00 ,Plain,Brooklyn,Court Street,City of New York,New York,United States
+121,Barcklay's Pizza and Pasta,40.6827637,-73.9643383,2021-0122,"Jan 22nd 2021, 8:51:28 pm",2021,2.5,$2.50 ,Plain,Brooklyn,Fulton Street,City of New York,New York,United States
+122,Prima Pizza & Pasta,40.7282673,-73.7358585,2021-0118,"Jan 18th 2021, 4:27:14 pm",2021,2.75,$2.75 ,Plain,Queens,Braddock Avenue,City of New York,New York,United States
+123,Baker's Pizza,40.7294399,-73.98125,2021-0116,"Jan 16th 2021, 3:01:42 pm",2021,3.25,$3.25 ,Plain,Manhattan,Avenue A,City of New York,New York,United States
+124,Monty Q's Pizza,40.6943,-73.99294,2021-0104,"Jan 4th 2021, 1:23:36 pm",2021,4.0,$4.00 ,Pepperoni,Brooklyn,Montague Street,City of New York,New York,United States
+125,Tony's Pizzeria,40.637601,-73.919525,2020-1223,"Dec 23rd 2020, 1:02:42 pm",2020,2.5,$2.50 ,Plain,Brooklyn,Ralph Avenue,City of New York,New York,United States
+126,Piz-zetta Pizzeria Brooklyn Heights,40.69122,-73.99062,2020-1208,"Dec 8th 2020, 2:00:47 pm",2020,3.5,$3.50 ,Pepperoni,Brooklyn,Livingston Street,City of New York,New York,United States
+127,Pronto Pizza,40.6894599,-73.99233,2020-1129,"Nov 29th 2020, 4:31:10 pm",2020,2.5,$2.50 ,Plain,Brooklyn,Court Street,City of New York,New York,United States
+128,99¢ Fresh Pizza & Hot Dog,40.7269451,-73.9831168,2020-1126,"Nov 26th 2020, 4:45:14 pm",2020,1.0,$1.00 ,Plain,Manhattan,Avenue A,City of New York,New York,United States
+129,La Mia Pizzeria & Restaurant,40.7330887,-73.9902141,2020-1123,"Nov 23rd 2020, 6:14:57 pm",2020,2.75,$2.75 ,Plain,Manhattan,4th Avenue,City of New York,New York,United States
+130,Sam's Pizza,40.87939,-73.90601,2020-1110,"Nov 10th 2020, 1:55:05 pm",2020,3.0,$3.00 ,Plain,Bronx,West 231st Street,City of New York,New York,United States
+131,Pizza2Go,40.80486,-73.93816,2020-1110,"Nov 10th 2020, 1:11:22 pm",2020,1.0,$1.00 ,Plain,Manhattan,East 125th Street,City of New York,New York,United States
+132,My Little Pizzeria,40.69022,-73.99227,2020-1021,"Oct 21st 2020, 1:51:01 pm",2020,3.0,$3.00 ,Pepperoni,Brooklyn,Court Street,City of New York,New York,United States
+133,Luv-N-Oven Pizzeria,40.68969,-73.97758,2020-1019,"Oct 19th 2020, 1:51:34 pm",2020,3.75,$3.75 ,Pepperoni,Brooklyn,DeKalb Avenue,City of New York,New York,United States
+134,Italian Affair,40.72201222,-73.73004226,2020-1010,"Oct 10th 2020, 5:09:51 pm",2020,2.25,$2.25 ,Plain,Queens,Jamaica Avenue,,New York,United States
+135,P & M Pizza & Restaurant,40.82618,-73.9467,2020-0928,"Sep 28th 2020, 3:07:31 pm",2020,2.5,$2.50 ,Plain,Manhattan,Amsterdam Avenue,City of New York,New York,United States
+136,Wholesome Garden Pizza,40.82611648,-73.95094532,2020-0918,"Sep 18th 2020, 4:27:01 pm",2020,2.5,$2.50 ,Plain,Manhattan,Broadway,City of New York,New York,United States
+137,Joe's Pizzeria,40.65863,-73.98171,2020-0912,"Sep 12th 2020, 2:20:32 pm",2020,2.75,$2.75 ,Plain,Brooklyn,Prospect Park West,City of New York,New York,United States
+138,Pizza Central of Brooklyn,40.63114,-73.97703,2020-0908,"Sep 8th 2020, 3:57:42 pm",2020,2.75,$2.75 ,Plain,Brooklyn,McDonald Avenue,City of New York,New York,United States
+139,Pizza D'Amore,40.5801496,-73.8370727,2020-0908,"Sep 8th 2020, 1:12:59 pm",2020,4.5,$4.50 ,Pepperoni,Queens,Beach 116th Street,City of New York,New York,United States
+140,A & S Pizzeria,40.64401,-74.0776,2020-0901,"Sep 1st 2020, 2:22:36 pm",2020,2.0,$2.00 ,Plain,Staten Island,Stuyvesant Place,City of New York,New York,United States
+141,Ciros Pizza 116st,40.57914,-73.83702,2020-0820,"Aug 20th 2020, 8:14:13 pm",2020,2.75,$2.75 ,Plain,Queens,Beach 116th Street,City of New York,New York,United States
+142,Woodhaven Cafe Pizzeria,40.680109,-73.844141,2020-0814,"Aug 14th 2020, 2:28:17 pm",2020,1.0,$1.00 ,Plain,Queens,Liberty Avenue,City of New York,New York,United States
+143,Cheeze Louiez,40.701064,-73.94123,2020-0803,"Aug 3rd 2020, 8:25:52 pm",2020,2.75,$2.75 ,Plain,Brooklyn,Flushing Avenue,City of New York,New York,United States
+144,Gino's Pizza Farockaway Queens NY,40.60337636,-73.75302557,2020-0803,"Aug 3rd 2020, 12:48:25 pm",2020,2.5,$2.50 ,Plain,Queens,Beach 20th Street,City of New York,New York,United States
+145,JM Pizza,40.596594,-73.754904,2020-0803,"Aug 3rd 2020, 1:04:28 pm",2020,2.5,$2.50 ,Plain,Queens,Seagirt Boulevard,City of New York,New York,United States
+146,Elegante,40.58619,-73.81542,2020-0729,Jul 29th 2020,2020,3.0,$3.00 ,Plain,Queens,Rockaway Beach Boulevard,City of New York,New York,United States
+147,Family Pizza,40.65585,-73.96008,2020-0726,"Jul 26th 2020, 5:54:20 pm",2020,2.75,$2.75 ,Plain,Brooklyn,Flatbush Avenue,City of New York,New York,United States
+148,Famous NY Pizza,40.6377231,-74.0873695,2020-0723,"Jul 23rd 2020, 1:36:42 pm",2020,2.0,$2.00 ,Plain,Staten Island,Jersey Street,City of New York,New York,United States
+149,Beach Channel Pizza,40.597955,-73.766132,2020-0709,"Jul 9th 2020, 2:13:24 pm",2020,2.25,$2.25 ,Plain,Queens,Far Rockaway Boulevard,City of New York,New York,United States
+150,Star 99¢ Pizza,40.71807,-73.98586,2020-0707,"Jul 7th 2020, 3:06:36 pm",2020,1.0,$1.00 ,Plain,Manhattan,Delancey Street,City of New York,New York,United States
+151,Pizza D'Amore,40.5801496,-73.8370727,2020-0703,"Jul 3rd 2020, 11:28:19 am",2020,2.5,$2.50 ,Plain,Queens,Beach 116th Street,City of New York,New York,United States
+152,Joe's Pizza By The Sea,40.5875839,-73.8127052,2020-0624,"Jun 24th 2020, 10:35:37 pm",2020,2.5,$2.50 ,Plain,Queens,Rockaway Beach Boulevard,City of New York,New York,United States
+153,Joe & Sal's Pizza Fort Greene,40.69332939,-73.97220254,2020-0414,"Apr 14th 2020, 5:37:00 pm",2020,2.75,$2.75 ,Plain,Brooklyn,Myrtle Avenue,City of New York,New York,United States
+154,Marios Chicken Pizza & Grill,40.6027254,-73.7503447,2020-0330,"Aug 30th 2020, 3:22:12 pm",2020,2.0,$2.00 ,Plain,Queens,Mott Avenue,City of New York,New York,United States
+155,Pizza plus & the margarita bar,40.7016926,-74.01290658,2020-0208,"Feb 8th 2020, 1:21:06 pm",2020,4.4,$4.40 ,Pepperoni,Manhattan,Peter Minuit Plaza Greenway,City of New York,New York,United States
+156,Pizza's San Miguel,40.63886,-73.96888,2020-0111,"Jan 11th 2020, 5:28:03 pm",2020,2.0,$2.00 ,Plain,Brooklyn,Coney Island Avenue,City of New York,New York,United States
+157,Tommy's Pizza,40.68616,-73.82553,2019-1111,"Nov 11th 2019, 1:59:41 pm",2019,3.0,$3.00 ,Plain,Queens,Liberty Avenue,City of New York,New York,United States
+158,Big Daddy's Pizza,40.67435,-74.0071,2019-1026,"Oct 26th 2019, 3:31:41 pm",2019,2.0,$2.00 ,Plain,Brooklyn,Lorraine Street,City of New York,New York,United States
+159,Bella Pizza Inc,40.70684,-73.78983,2019-1019,"Oct 19th 2019, 5:14:44 pm",2019,2.0,$2.00 ,Plain,Queens,Jamaica Avenue,City of New York,New York,United States
+160,Tipsy Tomato Pizzeria,40.680199,-73.845768,2019-1011,"Oct 11th 2019, 3:44:07 pm",2019,2.75,$2.75 ,Plain,Queens,Liberty Avenue,City of New York,New York,United States
+161,Unique Bazaar Jamaica NY,40.70373,-73.79706,2019-0928,"Sep 28th 2019, 4:24:12 pm",2019,1.5,$1.50 ,Plain,Queens,Guy R. Brewer Boulevard,City of New York,New York,United States
+162,Margherita Pizza Inc,40.70453082,-73.79679273,2019-0928,"Sep 28th 2019, 3:45:01 pm",2019,3.25,$3.25 ,Plain,Queens,Jamaica Avenue,City of New York,New York,United States
+163,Harbor Pizzeria,40.7183175,-73.8727355,2019-0913,"Sep 13th 2019, 9:55:58 pm",2019,2.75,$2.75 ,Plain,Queens,Dry Harbor Road,City of New York,New York,United States
+164,Slice of Brooklyn,40.65691,-74.00143,2019-0807,"Aug 7th 2019, 1:41:03 pm",2019,2.25,$2.25 ,Plain,Brooklyn,4th Avenue,City of New York,New York,United States
+165,Slice of Brooklyn,40.65691,-74.00143,2019-0807,"Aug 7th 2019, 1:41:03 pm",2019,2.25,$2.25 ,Plain,Brooklyn,4th Avenue,City of New York,New York,United States
+166,Best Pizza Williamsburg,40.71561,-73.95352,2019-0721,"Jul 21st 2019, 11:18:50 pm",2019,4.25,$4.25 ,White,Brooklyn,Havemeyer Street,City of New York,New York,United States
+167,Ciros Pizza,40.57914,-73.83702,2019-0719,"Jul 19th 2019, 12:30:08 pm",2019,2.75,$2.75 ,Plain,Queens,Beach 116th Street,City of New York,New York,United States
+168,99c Fresh Pizza,40.7518124,-73.9743737,2019-0611,"Jun 11th 2019, 3:34:03 pm",2019,1.0,$1.00 ,Plain,Manhattan,East 43rd Street,City of New York,New York,United States
+169,Mangiamo Pizza,40.69909,-73.9147,2019-0605,"Jun 5th 2019, 8:40:18 pm",2019,2.0,$2.00 ,Plain,Brooklyn,Irving Avenue,City of New York,New York,United States
+170,Farmers Pizzeria Inc.,40.70103,-73.76505,2019-0517,"May 17th 2019, 2:34:58 pm",2019,2.0,$2.00 ,Plain,Queens,Farmers Boulevard,City of New York,New York,United States
+171,Margherita Pizza Inc,40.70453082,-73.79679273,2019-0427,"Apr 27th 2019, 3:24:11 pm",2019,4.25,$4.25 ,Pepperoni,Queens,Jamaica Avenue,City of New York,New York,United States
+172,Farmers Pizza and Grill,40.69088,-73.76194,2019-0425,"Apr 25th 2019, 2:47:56 pm",2019,2.0,$2.00 ,Plain,Queens,Farmers Boulevard,City of New York,New York,United States
+173,W4 Pizza,40.731687,-74.001115,2019-0423,"Apr 23rd 2019, 4:30:00 pm",2019,2.5,$2.50 ,Pepperoni,Manhattan,West 4th Street,City of New York,New York,United States
+174,Luna Pizza,40.71350162,-73.99854598,2019-0408,"Apr 8th 2019, 8:52:34 pm",2019,4.0,$4.00 ,Pepperoni,Manhattan,Oliver Street,City of New York,New York,United States
+175,Justino's Pizzeria Pizzeria,40.70883,-74.00531,2019-0402,"Apr 2nd 2019, 1:55:21 pm",2019,2.75,$2.75 ,Plain,Manhattan,Fulton Street,City of New York,New York,United States
+176,Joe's Pizzeria & Restaurant,40.67869,-73.86793,2019-0309,"Mar 9th 2019, 1:12:51 pm",2019,2.5,$2.50 ,Plain,Brooklyn,Liberty Avenue,City of New York,New York,United States
+177,Ancona Pizzeria & Heroes,40.66153,-73.69983,2019-0303,"Mar 3rd 2019, 3:55:04 pm",2019,3.8,$3.80 ,Pepperoni,,Rockaway Avenue,,New York,United States
+178,Hot Fresh Pizza 99c,40.71885,-74.00036,2019-0228,"Feb 28th 2019, 6:49:52 pm",2019,1.0,$1.00 ,Plain,Manhattan,Lafayette Street,City of New York,New York,United States
+179,Gino's,40.71067473,-73.99656346,2019-0221,"Feb 21st 2019, 6:58:53 pm",2019,2.0,$2.00 ,Plain,Manhattan,Catherine Street,City of New York,New York,United States
+180,Famous Calabria Pizza,40.7116825,-73.9995925,2019-0220,"Feb 20th 2019, 8:49:19 pm",2019,3.0,$3.00 ,Plain,Manhattan,Pearl Street,City of New York,New York,United States
+181,Roccos Pizzeria,40.692128,-73.94570415,2019-0210,"Feb 10th 2019, 12:05:49 am",2019,2.75,$2.75 ,Plain,Brooklyn,Tompkins Avenue,City of New York,New York,United States
+182,Hi-Class Pizza,40.72538,-73.72167,2019-0208,"Feb 8th 2019, 10:02:58 pm",2019,2.75,$2.75 ,Plain,Queens,Jamaica Avenue,City of New York,New York,United States
+183,Baker's Pizza,40.7294399,-73.98125,2019-0205,"Feb 5th 2019, 8:45:31 pm",2019,3.0,$3.00 ,Plain,Manhattan,Avenue A,City of New York,New York,United States
+184,Kiss My Slice,40.75576,-73.99052,2019-0124,"Jan 24th 2019, 6:45:02 pm",2019,2.75,$2.75 ,Plain,Manhattan,Broadway,City of New York,New York,United States
+185,99 Cent Fresh Hot Pizza,40.69232,-73.98696,2019-0104,"Jan 4th 2019, 11:16:28 pm",2019,1.0,$1.00 ,Plain,Brooklyn,Willoughby Street,City of New York,New York,United States
+186,Kiss My Slice,40.75576,-73.99052,2018-1213,"Dec 13th 2018, 6:27:25 pm",2018,1.0,$1.00 ,Plain,Manhattan,Broadway,City of New York,New York,United States
+187,Springfield & LA Bari Pizza & Restaurant,40.6744308,-73.763588,2018-1108,"Nov 8th 2018, 4:47:58 pm",2018,2.0,$2.00 ,Plain,Queens,Farmers Boulevard,City of New York,New York,United States
+188,Margherita Pizza Inc,40.70453082,-73.79679273,2018-1107,"Nov 7th 2018, 2:43:40 pm",2018,3.0,$3.00 ,Plain,Queens,Jamaica Avenue,City of New York,New York,United States
+189,Vaccaro's Pizzeria & Trattoria,40.72795,-73.71088,2018-1031,"Oct 31st 2018, 2:48:15 pm",2018,2.65,$2.65 ,Plain,Queens,Little Neck Parkway,City of New York,New York,United States
+190,Mario's Pizzeria,40.66489,-73.73525,2018-1017,"Oct 17th 2018, 2:20:32 pm",2018,2.5,$2.50 ,Plain,Queens,Francis Lewis Boulevard,City of New York,New York,United States
+191,Mario's Pizza,40.65763,-73.76724,2018-0929,"Sep 29th 2018, 1:45:47 pm",2018,2.75,$2.75 ,Plain,Queens,Guy R. Brewer Boulevard,City of New York,New York,United States
+192,Big John's Pizza,40.7185614,-73.7358451,2018-0912,"Sep 12th 2018, 3:38:58 pm",2018,3.25,$3.25 ,Pepperoni,Queens,Jamaica Avenue,City of New York,New York,United States
+193,Lamici,40.6635174,-73.7767928,2018-0908,"Sep 8th 2018, 3:08:48 pm",2018,2.5,$2.50 ,Plain,Queens,Rockaway Boulevard,City of New York,New York,United States
+194,Two Boots Pizza,40.72369,-73.98489,2018-0327,"Mar 27th 2018, 2:54:01 pm",2018,4.08,$4.08 ,Pepperoni,Manhattan,East 3rd Street,City of New York,New York,United States
+195,Alba Pizzeria,40.7093836,-73.8188509,2017-1212,"Dec 12th 2017, 2:01:45 pm",2017,2.75,$2.75 ,Plain,Queens,Queens Boulevard,City of New York,New York,United States
+196,Pizza Plus,40.80188,-73.93691,2017-1208,"Dec 8th 2017, 2:23:35 pm",2017,2.0,$2.00 ,Plain,Manhattan,3rd Avenue,City of New York,New York,United States
+197,Am PM Pizza Bagel,40.62614,-73.97608,2017-1206,"Dec 6th 2017, 2:58:45 pm",2017,2.0,$2.00 ,Plain,Brooklyn,McDonald Avenue,City of New York,New York,United States
+198,Pino's Pizza,40.6009756,-74.0005968,2017-1205,"Dec 5th 2017, 5:05:46 pm",2017,2.5,$2.50 ,Plain,Brooklyn,Bath Avenue,City of New York,New York,United States
+199,Margherita Pizza,40.7043939,-73.7971569,2017-1129,"Nov 29th 2017, 2:56:10 pm",2017,3.0,$3.00 ,Plain,Queens,Jamaica Avenue,City of New York,New York,United States
+200,Carbo's Pizzeria,40.86262,-73.84324,2017-1128,"Nov 28th 2017, 3:51:39 pm",2017,2.5,$2.50 ,Plain,Bronx,Eastchester Road,City of New York,New York,United States
+201,Antonio's Pizzeria & Cafe,40.69294,-73.99097,2017-1022,"Oct 22nd 2017, 12:21:22 pm",2017,2.5,$2.50 ,Plain,Brooklyn,Court Street,City of New York,New York,United States
+202,Rosa's Pizza,40.71221,-73.90001,2017-0814,"Aug 14th 2017, 11:26:59 am",2017,2.65,$2.65 ,Plain,Queens,Fresh Pond Road,City of New York,New York,United States
+203,2 Bros Pizza,40.75695,-73.9935,2017-0803,"Aug 3rd 2017, 6:54:31 pm",2017,1.0,$1.00 ,Plain,Manhattan,9th Avenue,City of New York,New York,United States
+204,Gotham Pizza,40.73214,-73.98825,2017-0728,"Jul 28th 2017, 4:05:02 pm",2017,2.75,$2.75 ,Plain,Manhattan,3rd Avenue,City of New York,New York,United States
+205,Joey's Pizza,40.7262164,-73.8951812,2017-0628,"Jun 28th 2017, 8:58:07 pm",2017,2.75,$2.75 ,Plain,Queens,Grand Avenue,City of New York,New York,United States
+206,NY Fresh Pizza,40.7651482,-73.9881363,2017-0616,"Jun 16th 2017, 5:42:08 pm",2017,1.0,$1.00 ,Plain,Manhattan,9th Avenue,City of New York,New York,United States
+207,Gotham Pizza,40.74381,-74.00295,2017-0531,"May 31st 2017, 8:42:52 pm",2017,3.0,$3.00 ,Pepperoni,Manhattan,West 19th Street,City of New York,New York,United States
+208,Scarr's Pizza,40.71539,-73.99153,2017-0516,"May 16th 2017, 12:54:18 pm",2017,3.75,$3.75 ,Pepperoni,Manhattan,Orchard Street,City of New York,New York,United States
+209,Sutton Pizzeria,40.76183,-73.96015,2017-0503,"May 3rd 2017, 8:20:08 pm",2017,2.75,$2.75 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+210,Little Gio's Pizza,40.72374,-73.9879,2017-0429,"Apr 29th 2017, 1:57:12 pm",2017,2.25,$2.25 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+211,99 Cent Express Pizza,40.75024,-73.9705,2017-0421,"Apr 21st 2017, 8:34:08 pm",2017,1.0,$1.00 ,Plain,Manhattan,East 43rd Street,City of New York,New York,United States
+212,Sofia Pizza Shoppe,40.75674,-73.96431,2017-0412,"Apr 12th 2017, 2:37:39 pm",2017,4.5,$4.50 ,Pepperoni,Manhattan,1st Avenue,City of New York,New York,United States
+213,Luigi's Family Italian Ristorante and Pizzeria,40.77843,-73.94863,2017-0322,"Mar 22nd 2017, 7:05:00 pm",2017,2.75,$2.75 ,Plain,Manhattan,East 88th Street,City of New York,New York,United States
+214,Italian Village Pizzeria & Restaurant NYC,40.77149,-73.95309,2017-0211,"Feb 11th 2017, 6:58:17 pm",2017,2.75,$2.75 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+215,Bosa's Pizza of Harlem,40.802747,-73.9340882,2017-0211,"Feb 11th 2017, 5:02:12 pm",2017,2.0,$2.00 ,Plain,Manhattan,East 125th Street,City of New York,New York,United States
+216,Rivoli Pizza II,40.7332899,-74.00619,2017-0127,"Jan 27th 2017, 1:51:10 pm",2017,3.0,$3.00 ,Plain,Manhattan,Hudson Street,City of New York,New York,United States
+217,J's Pizza,40.7398164,-73.9989453,2017-0127,"Jan 21st 2017, 5:22:27 pm",2017,3.25,$3.25 ,Pepperoni,Manhattan,West 16th Street,City of New York,New York,United States
+218,44st Pizza,40.75202,-73.97376,2017-0119,"Jan 19th 2017, 3:42:04 pm",2017,1.0,$1.00 ,Plain,Manhattan,3rd Avenue,City of New York,New York,United States
+219,Joey Pepperoni's Pizza,40.740868,-73.978965,2016-1224,"Dec 24th 2016, 2:43:21 pm",2016,1.0,$1.00 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+220,Tony's Pizzeria & Restaurant,40.6992,-73.91882,2016-1022,"Oct 22nd 2016, 7:52:03 pm",2016,2.5,$2.50 ,Plain,Brooklyn,Knickerbocker Avenue,City of New York,New York,United States
+221,Villa Mia Pizzeria,40.66949,-73.99285,2016-1020,"Oct 20th 2016, 4:48:25 pm",2016,2.5,$2.50 ,Plain,Brooklyn,3rd Avenue,City of New York,New York,United States
+222,Sofia Pizza Shoppe,40.75674,-73.96431,2016-1014,"Oct 14th 2016, 1:55:17 pm",2016,4.0,$4.00 ,Pepperoni,Manhattan,1st Avenue,City of New York,New York,United States
+223,Mamma's Famous Ristorante,40.78806,-73.97707,2016-0920,"Sep 20th 2016, 4:25:12 pm",2016,3.85,$3.85 ,Pepperoni,Manhattan,Broadway,City of New York,New York,United States
+224,Justino's Pizzeria,40.76960068,-73.98845172,2016-0909,"Sep 9th 2016, 6:30:30 pm",2016,3.5,$3.50 ,Pepperoni,Manhattan,10th Avenue,City of New York,New York,United States
+225,New York sal's pizza,40.7637799,-73.99224,2016-0909,"Sep 9th 2016, 2:33:24 pm",2016,2.75,$2.75 ,Plain,Manhattan,10th Avenue,City of New York,New York,United States
+226,Pizza & Pita,40.74385051,-73.97396489,2016-0908,"Sep 8th 2016, 2:38:36 pm",2016,2.75,$2.75 ,Plain,Manhattan,East 34th Street,City of New York,New York,United States
+227,Luigi's Gourmet Pizza,40.76559,-73.98349,2016-0825,"Aug 25th 2016, 4:30:15 pm",2016,2.75,$2.75 ,Plain,Manhattan,8th Avenue,City of New York,New York,United States
+228,Giuseppe's Pizza At St George,40.64222552,-74.07674037,2016-0823,"Aug 23rd 2016, 1:12:17 pm",2016,2.0,$2.00 ,Plain,Staten Island,Hyatt Street,City of New York,New York,United States
+229,Tom's Pizza & Italian Restaurant Inc,40.69498,-73.84286,2016-0822,"Aug 22nd 2016, 12:29:24 pm",2016,2.0,$2.00 ,Plain,Queens,Jamaica Avenue,City of New York,New York,United States
+230,Three Brothers 3,40.680423,-73.753499,2016-0820,"Aug 20th 2016, 3:07:31 pm",2016,2.0,$2.00 ,Plain,Queens,Merrick Boulevard,City of New York,New York,United States
+231,Domenick's Pizza,40.6781657,-73.8317404,2016-0820,"Aug 20th 2016, 1:07:19 pm",2016,2.0,$2.00 ,Plain,Queens,Rockaway Boulevard,City of New York,New York,United States
+232,John & Tony's,40.76042052,-73.9616057,2016-0819,"Aug 19th 2016, 8:41:44 pm",2016,2.95,$2.95 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+233,Mario's Pizza,40.68683,-73.96644,2016-0818,"Aug 18th 2016, 7:49:54 pm",2016,3.0,$3.00 ,Pepperoni,Brooklyn,Waverly Avenue,City of New York,New York,United States
+234,J&D Pizzeria Restaurant,40.67429,-73.87879,2016-0813,"Aug 13th 2016, 12:20:48 pm",2016,1.0,$1.00 ,Plain,Brooklyn,Pitkin Avenue,City of New York,New York,United States
+235,Lenny's Pizza,40.65064377,-73.83810071,2016-0813,"Aug 13th 2016, 1:44:41 pm",2016,3.0,$3.00 ,Plain,Queens,Cross Bay Boulevard,City of New York,New York,United States
+236,Romeo's Pizzeria,40.6739049,-73.8434862,2016-0807,"Aug 7th 2016, 2:02:48 pm",2016,2.5,$2.50 ,Plain,Queens,Cross Bay Boulevard,City of New York,New York,United States
+237,Dany's Pizza Restaurant,40.690672,-73.869665,2016-0807,"Aug 7th 2016, 11:23:31 am",2016,2.0,$2.00 ,Plain,Brooklyn,Jamaica Avenue,City of New York,New York,United States
+238,Cafe Daniellos,40.75882,-73.96543,2016-0728,"Jul 28th 2016, 5:08:33 pm",2016,2.75,$2.75 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+239,Gino's Pizzeria,40.65234,-73.95902,2016-0727,"Jul 27th 2016, 6:56:54 pm",2016,2.25,$2.25 ,Plain,Brooklyn,Flatbush Avenue,City of New York,New York,United States
+240,Armando's Pizza,40.610228,-73.922216,2016-0727,"Jul 27th 2016, 6:34:38 pm",2016,2.45,$2.45 ,Plain,Brooklyn,Flatbush Avenue,City of New York,New York,United States
+241,Ray's Pizza,40.72299,-73.99458,2016-0702,"Jul 2nd 2016, 6:54:55 pm",2016,3.95,$3.95 ,Grandma,Manhattan,Prince Street,City of New York,New York,United States
+242,Claudio's Pizzeria,40.7604,-73.99469,2016-0629,"Jun 29th 2016, 5:41:10 pm",2016,3.75,$3.75 ,Pepperoni,Manhattan,10th Avenue,City of New York,New York,United States
+243,Aenos Pizza,40.83679,-73.88908,2016-0629,"Jun 29th 2016, 4:02:39 pm",2016,2.25,$2.25 ,Plain,Bronx,Boston Road,City of New York,New York,United States
+244,Luke Pizza,40.8293304,-73.8915024,2016-0627,"Jun 27th 2016, 4:05:13 pm",2016,2.5,$2.50 ,Plain,Bronx,Southern Boulevard,City of New York,New York,United States
+245,Fresco Pizza & Pasta,40.8142087,-73.9131972,2016-0627,"Jun 27th 2016, 3:26:09 pm",2016,2.25,$2.25 ,Plain,Bronx,East 149th Street,City of New York,New York,United States
+246,Pinos La Forchetta Pizzeria & Restaurant,40.67133,-73.9777,2016-0626,"Jun 26th 2016, 1:54:00 am",2016,2.75,$2.75 ,Plain,Brooklyn,7th Avenue,City of New York,New York,United States
+247,Bleecker Street Pizza,40.73226681,-74.00341905,2016-0617,"Jun 17th 2016, 3:13:29 pm",2016,3.25,$3.25 ,Pepperoni,Manhattan,7th Avenue South,City of New York,New York,United States
+248,Roma Pizza,40.7803,-73.95312,2016-0611,"Jun 11th 2016, 9:20:40 pm",2016,2.5,$2.50 ,Plain,Manhattan,3rd Avenue,City of New York,New York,United States
+249,Saba's Pizza NY,40.77711,-73.95716,2016-0609,"Jun 9th 2016, 7:54:59 pm",2016,3.25,$3.25 ,Plain,Manhattan,Lexington Avenue,City of New York,New York,United States
+250,Little Italy Pizza,40.77856,-73.95294,2016-0609,"Jun 9th 2016, 2:09:20 pm",2016,2.75,$2.75 ,Plain,Manhattan,East 86th Street,City of New York,New York,United States
+251,99¢ Pizza,40.69244206,-73.98670256,2016-0601,"Jun 1st 2016, 9:12:04 pm",2016,1.0,$1.00 ,Plain,Brooklyn,Willoughby Street,City of New York,New York,United States
+252,My PIE Pizzeria,40.76079,-73.96941,2016-0524,"May 24th 2016, 11:12:09 pm",2016,5.25,$5.25 ,Grandma,Manhattan,East 57th Street,City of New York,New York,United States
+253,Sal's Pizza Store,40.68361,-73.99514,2016-0523,"May 23rd 2016, 8:34:01 pm",2016,2.75,$2.75 ,Plain,Brooklyn,Court Street,City of New York,New York,United States
+254,Cotta Bene Pizzeria Restaurant,40.67686,-73.98619,2016-0517,"May 17th 2016, 8:32:10 pm",2016,2.5,$2.50 ,Plain,Brooklyn,Carroll Street,City of New York,New York,United States
+255,NY Pizza Suprema,40.75014,-73.99518,2016-0505,"May 5th 2016, 4:44:28 pm",2016,3.0,$3.00 ,Plain,Manhattan,8th Avenue,City of New York,New York,United States
+256,Pizza Boy II,40.74552183,-73.90555705,2016-0503,"May 3rd 2016, 6:17:27 pm",2016,2.45,$2.45 ,Plain,Queens,Woodside Avenue,City of New York,New York,United States
+257,Martiniello's Pizzeria,40.74885,-73.87086,2016-0503,"May 3rd 2016, 1:26:30 pm",2016,1.5,$1.50 ,Plain,Queens,95th Street,City of New York,New York,United States
+258,Marabella Pizza,40.74031,-73.92373,2016-0502,"May 2nd 2016, 7:33:18 pm",2016,2.5,$2.50 ,Plain,Queens,Greenpoint Avenue,City of New York,New York,United States
+259,Mark's Pizza,40.67882,-74.01138,2016-0430,"Apr 30th 2016, 7:51:16 pm",2016,2.5,$2.50 ,Plain,Brooklyn,Van Brunt Street,City of New York,New York,United States
+260,Picasso Pizzeria,40.71021,-74.01649,2016-0429,"Apr 29th 2016, 7:01:14 pm",2016,3.15,$3.15 ,Plain,Manhattan,South End Avenue,City of New York,New York,United States
+261,Mario's Pizzeria,40.68346,-73.99002,2016-0419,"Apr 19th 2016, 11:43:02 pm",2016,1.5,$1.50 ,Plain,Brooklyn,Hoyt Street,City of New York,New York,United States
+262,Milano Pizza Shop,40.79684,-73.93812,2016-0323,"Mar 23rd 2016, 5:20:04 pm",2016,2.25,$2.25 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+263,620 Caton Pizzeria,40.64755,-73.97392,2016-0315,"Mar 15th 2016, 8:12:12 pm",2016,2.5,$2.50 ,Plain,Brooklyn,Caton Avenue,City of New York,New York,United States
+264,Gotham Pizza,40.74381,-74.00295,2016-0213,"Feb 13th 2016, 9:58:42 pm",2016,2.5,$2.50 ,Plain,Manhattan,West 19th Street,City of New York,New York,United States
+265,Bella Napoli,40.7451099,-73.99471,2016-0213,"Feb 13th 2016, 5:10:46 pm",2016,2.45,$2.45 ,Plain,Manhattan,7th Avenue,City of New York,New York,United States
+266,Lunetta Pizza & Restaurant,40.73721,-73.98395,2016-0129,"Jan 29th 2016, 8:07:48 pm",2016,2.5,$2.50 ,Plain,Manhattan,East 21st Street,City of New York,New York,United States
+267,Royal Pizza,40.74875,-73.97614,2016-0126,"Jan 26th 2016, 6:50:46 pm",2016,2.5,$2.50 ,Plain,Manhattan,3rd Avenue,City of New York,New York,United States
+268,Luigi Pizza Restaurant,40.74674,-73.99722,2016-0105,"Jan 5th 2016, 9:57:09 pm",2016,2.25,$2.25 ,Plain,Manhattan,8th Avenue,City of New York,New York,United States
+269,Pizza Prince,40.72390868,-73.95038682,2015-1231,"Dec 31st 2015, 5:08:00 pm",2015,3.25,$3.25 ,Pepperoni,Brooklyn,Nassau Avenue,City of New York,New York,United States
+270,Little Italy Pizza,40.77783381,-73.98249241,2015-1231,"Dec 31st 2015, 10:50:23 pm",2015,3.5,$3.50 ,Pepperoni,Manhattan,Broadway,City of New York,New York,United States
+271,DJ Pizza,40.74645,-73.98026,2015-1228,"Dec 28th 2015, 5:57:55 pm",2015,2.5,$2.50 ,Plain,Manhattan,East 34th Street,City of New York,New York,United States
+272,San Remo Pizza,40.70031,-73.90613,2015-1226,"Dec 26th 2015, 5:57:06 pm",2015,2.5,$2.50 ,Plain,Queens,Myrtle Avenue,City of New York,New York,United States
+273,Tony's Original's,40.63829,-74.07938,2015-1224,"Dec 24th 2015, 2:34:11 pm",2015,2.0,$2.00 ,Plain,Staten Island,Corson Avenue,City of New York,New York,United States
+274,Fiore's Pizza,40.72875,-74.0001,2015-1222,"Dec 22nd 2015, 8:15:57 pm",2015,3.5,$3.50 ,Pepperoni,Manhattan,Bleecker Street,City of New York,New York,United States
+275,Abitino's Trattoria Pizzeria,40.7546051,-73.9685234,2015-1220,"Dec 20th 2015, 2:07:57 pm",2015,3.0,$3.00 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+276,99 Cents Fresh Pizza,40.7331,-73.99955,2015-1217,"Dec 17th 2015, 7:32:10 pm",2015,1.0,$1.00 ,Plain,Manhattan,6th Avenue,City of New York,New York,United States
+277,Gourmet Park,40.76329,-73.96846,2015-1216,"Dec 16th 2015, 5:03:15 pm",2015,2.5,$2.50 ,Pepperoni,Manhattan,East 60th Street,City of New York,New York,United States
+278,City Slice,40.7654294,-73.9909294,2015-1213,"Dec 13th 2015, 2:09:19 pm",2015,2.75,$2.75 ,Plain,Manhattan,10th Avenue,City of New York,New York,United States
+279,Majestic Pizza,40.7100713,-74.0103149,2015-1210,"Dec 10th 2015, 6:33:27 pm",2015,2.5,$2.50 ,Plain,Manhattan,Cortlandt Street,City of New York,New York,United States
+280,Luna Pizza,40.71350162,-73.99854598,2015-1205,"Dec 5th 2015, 8:12:13 pm",2015,4.0,$4.00 ,Pepperoni,Manhattan,Oliver Street,City of New York,New York,United States
+281,Rosetti's Pizza,40.7238,-74.0045899,2015-1203,"Dec 3rd 2015, 3:53:13 pm",2015,2.75,$2.75 ,Plain,Manhattan,Sullivan Street,City of New York,New York,United States
+282,Sal Pizza,40.70445869,-73.91924267,2015-1124,"Nov 24th 2015, 8:26:30 pm",2015,2.25,$2.25 ,Plain,Brooklyn,Wyckoff Avenue,City of New York,New York,United States
+283,Pizza 33,40.74505,-73.97821,2015-1121,"Nov 21st 2015, 6:09:28 pm",2015,3.0,$3.00 ,Plain,Manhattan,East 33rd Street,City of New York,New York,United States
+284,Dough Boys Pizza,40.7438563,-73.9792757,2015-1120,"Nov 20th 2015, 2:19:15 pm",2015,5.0,$5.00 ,Pepperoni,Manhattan,3rd Avenue,City of New York,New York,United States
+285,Yankee Pizza,40.7267,-73.97727,2015-1120,"Nov 20th 2015, 11:52:31 pm",2015,2.25,$2.25 ,Plain,Manhattan,East 11th Street,City of New York,New York,United States
+286,Primavera Pizza & Pasta,40.75699,-73.96722,2015-1119,"Nov 19th 2015, 3:26:37 pm",2015,3.0,$3.00 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+287,La Bellezza Pizzeria,40.71573018,-74.00505157,2015-1118,"Nov 18th 2015, 5:07:33 pm",2015,2.5,$2.50 ,Plain,Manhattan,Broadway,City of New York,New York,United States
+288,King Pizza & Pasta,40.68283,-73.96439,2015-1114,"Nov 14th 2015, 6:32:58 pm",2015,1.75,$1.75 ,Plain,Brooklyn,Fulton Street,City of New York,New York,United States
+289,Not Ray's Nick's Pizza Inc,40.68606,-73.97412,2015-1114,"Nov 14th 2015, 2:38:45 pm",2015,2.75,$2.75 ,Plain,Brooklyn,Hanson Place,City of New York,New York,United States
+290,Abitino Pizzeria & Restaurant,40.74819,-73.97363,2015-1113,"Nov 13th 2015, 4:44:36 pm",2015,3.0,$3.00 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+291,Gotham Pizza,40.7699814,-73.9517212,2015-1110,"Nov 10th 2015, 9:24:03 pm",2015,2.75,$2.75 ,Plain,Manhattan,York Avenue,City of New York,New York,United States
+292,Arturo's Pizza,40.77529,-73.94738,2015-1107,"Nov 7th 2015, 3:12:28 pm",2015,3.0,$3.00 ,Pepperoni,Manhattan,York Avenue,City of New York,New York,United States
+293,Delizia 92 Restaurant & Pizzeria,40.78152,-73.94886,2015-1107,"Nov 7th 2015, 10:10:02 pm",2015,3.55,$3.55 ,Pepperoni,Manhattan,2nd Avenue,City of New York,New York,United States
+294,Pastafina Restaurant,40.741874,-73.981183,2015-1106,"Nov 6th 2015, 4:55:50 pm",2015,3.75,$3.75 ,Margherita,Manhattan,3rd Avenue,City of New York,New York,United States
+295,Mamma Mia Pizza & Grill,40.78022,-73.94672,2015-1105,"Nov 5th 2015, 8:22:56 pm",2015,2.25,$2.25 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+296,Pizza Park Corp,40.7644499,-73.95868,2015-1105,"Nov 5th 2015, 2:07:54 pm",2015,2.75,$2.75 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+297,Papa John's Pizza,40.71690571,-73.99038792,2015-1102,"Nov 2nd 2015, 3:33:36 pm",2015,1.0,$1.00 ,Plain,Manhattan,Grand Street,City of New York,New York,United States
+298,Little Italy Pizza,40.77783381,-73.98249241,2015-1027,"Oct 27th 2015, 7:52:07 pm",2015,3.5,$3.50 ,Pepperoni,Manhattan,Broadway,City of New York,New York,United States
+299,Francesco's Pizza,40.775197,-73.980691,2015-1027,"Oct 27th 2015, 4:30:38 pm",2015,2.85,$2.85 ,Plain,Manhattan,Columbus Avenue,City of New York,New York,United States
+300,LaRustica Pizza,40.7841781,-73.9524049,2015-1022,"Oct 22nd 2015, 6:26:49 pm",2015,2.75,$2.75 ,Plain,Manhattan,Lexington Avenue,City of New York,New York,United States
+301,Pizza Works,40.78761,-73.94429,2015-1020,"Oct 20th 2015, 6:35:37 pm",2015,2.75,$2.75 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+302,Triangle Pizzeria,40.79057,-73.94277,2015-1020,"Oct 20th 2015, 4:39:22 pm",2015,2.25,$2.25 ,Plain,Manhattan,East 106th Street,City of New York,New York,United States
+303,La Traviata Pizzeria,40.77505,-73.98088,2015-1014,"Oct 14th 2015, 6:07:18 pm",2015,3.79,$3.79 ,Pepperoni,Manhattan,West 68th Street,City of New York,New York,United States
+304,Joey Pepperoni's Pizza,40.740868,-73.978965,2015-1013,"Oct 13th 2015, 9:26:36 pm",2015,1.0,$1.00 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+305,Stella's Pizza,40.74297,-74.00368,2015-1007,"Oct 7th 2015, 4:12:50 pm",2015,2.75,$2.75 ,Plain,Manhattan,9th Avenue,City of New York,New York,United States
+306,Patsy's Pizza,40.79714493,-73.93479109,2015-1006,"Oct 6th 2015, 3:31:48 pm",2015,1.75,$1.75 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+307,Sam's Famous Pizza 116th,40.79844,-73.94157,2015-1006,"Oct 6th 2015, 3:20:46 pm",2015,2.25,$2.25 ,Plain,Manhattan,East 116th Street,City of New York,New York,United States
+308,Cucina Bene,40.70596,-74.00993,2015-1005,"Oct 5th 2015, 5:35:58 pm",2015,2.75,$2.75 ,Plain,Manhattan,Wall Street,City of New York,New York,United States
+309,Melani Pizzeria,40.71904,-73.98466,2015-1003,"Oct 3rd 2015, 6:19:01 pm",2015,1.5,$1.50 ,Plain,Manhattan,Rivington Street,City of New York,New York,United States
+310,La Margarita Pizza,40.7213955,-73.9874383,2015-1003,"Oct 3rd 2015, 6:07:12 pm",2015,2.0,$2.00 ,Plain,Manhattan,Ludlow Street,City of New York,New York,United States
+311,Rosario Pizza Inc,40.72159,-73.98857,2015-1003,"Oct 3rd 2015, 10:08:14 pm",2015,2.5,$2.50 ,Plain,Manhattan,Orchard Street,City of New York,New York,United States
+312,Sal's Pizza and Restaurant,40.87531,-73.87966,2015-0930,"Sep 30th 2015, 4:40:01 pm",2015,2.5,$2.50 ,Plain,Bronx,Bainbridge Avenue,City of New York,New York,United States
+313,Napoli Pizza,40.87321,-73.87897,2015-0930,"Sep 30th 2015, 3:48:09 pm",2015,2.5,$2.50 ,Plain,Bronx,East 204th Street,City of New York,New York,United States
+314,Not Ray's Leo's Pizza,40.57535,-73.99409,2015-0929,"Sep 29th 2015, 3:12:27 pm",2015,2.0,$2.00 ,Plain,Brooklyn,Mermaid Avenue,City of New York,New York,United States
+315,Little Vincent's Pizza,40.76946076,-73.95804273,2015-0928,"Sep 28th 2015, 3:39:58 pm",2015,3.25,$3.25 ,Pepperoni,Manhattan,East 73rd Street,City of New York,New York,United States
+316,Pizza Boss NYC,40.77174,-73.95645,2015-0928,"Sep 28th 2015, 1:23:25 pm",2015,3.0,$3.00 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+317,Arturo's Italian Restaurant,40.77543,-73.94773,2015-0926,"Sep 26th 2015, 8:08:06 pm",2015,2.5,$2.50 ,Plain,Manhattan,York Avenue,City of New York,New York,United States
+318,Lunetta Pizza,40.77532,-73.95631,2015-0926,"Sep 26th 2015, 4:07:07 pm",2015,2.5,$2.50 ,Plain,Manhattan,3rd Avenue,City of New York,New York,United States
+319,Phil's Pizza,40.72914,-74.005,2015-0925,"Sep 25th 2015, 1:42:34 pm",2015,2.75,$2.75 ,Plain,Manhattan,Varick Street,City of New York,New York,United States
+320,Krust Pizza,40.73320627,-73.98586035,2015-0924,"Sep 24th 2015, 8:19:49 pm",2015,1.0,$1.00 ,Plain,Manhattan,East 15th Street,City of New York,New York,United States
+321,Mike's Pizza,40.7384851,-73.9806696,2015-0922,"Sep 22nd 2015, 7:52:52 pm",2015,2.5,$2.50 ,Plain,Manhattan,2nd Avenue,City of New York,New York,United States
+322,Susano's Pizzeria Restaurant,40.7032122,-73.9080984,2015-0920,"Sep 20th 2015, 7:42:01 pm",2015,1.5,$1.50 ,Plain,Queens,Seneca Avenue,City of New York,New York,United States
+323,East Village Pizza,40.72817548,-73.98514688,2015-0917,"Sep 17th 2015, 9:04:17 pm",2015,2.5,$2.50 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+324,Famiglia Pizzeria,40.73087,-73.9923699,2015-0916,"Sep 16th 2015, 4:33:50 pm",2015,2.85,$2.85 ,Plain,Manhattan,Broadway,City of New York,New York,United States
+325,Stromboli Pizza,40.72777302,-73.98541376,2015-0914,"Sep 14th 2015, 5:39:24 pm",2015,2.75,$2.75 ,Plain,Manhattan,Saint Mark's Place,City of New York,New York,United States
+326,Martinellos Pizza,40.704277,-73.907211,2015-0906,"Sep 6th 2015, 4:37:30 pm",2015,1.5,$1.50 ,Plain,Queens,Onderdonk Avenue,City of New York,New York,United States
+327,Napoli Pizza and Pasta,40.7571861,-73.9268541,2015-0716,"Jul 16th 2015, 4:42:56 pm",2015,2.0,$2.00 ,Plain,Queens,35th Avenue,City of New York,New York,United States
+328,Two Boots Pizza,40.7366779,-74.00126587,2015-0708,"Jul 8th 2015, 7:34:53 pm",2015,3.75,$3.75 ,Pepperoni,Manhattan,West 11th Street,City of New York,New York,United States
+329,Giuseppe's Pizzeria,40.7496969,-73.9770222,2015-0703,"Jul 3rd 2015, 2:06:04 pm",2015,2.75,$2.75 ,Plain,Manhattan,Lexington Avenue,City of New York,New York,United States
+330,Sal's Little Italy,40.72052,-73.99658,2015-0626,"Jun 26th 2015, 3:12:48 am",2015,4.0,$4.00 ,Pepperoni,Manhattan,Broome Street,City of New York,New York,United States
+331,Mike's Pizza,40.65538,-73.9565,2015-0614,"Jun 14th 2015, 7:30:24 pm",2015,2.0,$2.00 ,Plain,Brooklyn,Bedford Avenue,City of New York,New York,United States
+332,Joe's Pizza,40.73331,-73.98763,2015-0606,"Jun 6th 2015, 4:27:19 pm",2015,2.75,$2.75 ,Plain,Manhattan,East 14th Street,City of New York,New York,United States
+333,Clinton Square Pizza,40.71404706,-73.98719928,2015-0531,"May 31st 2015, 3:25:32 pm",2015,2.0,$2.00 ,Plain,Manhattan,Clinton Street,City of New York,New York,United States
+334,Barone Pizza,40.7589362,-73.8296299,2015-0525,"May 25th 2015, 1:03:31 pm",2015,2.5,$2.50 ,Plain,Queens,Main Street,City of New York,New York,United States
+335,2 Bros Pizza,40.75471,-73.99186,2015-0510,"May 10th 2015, 2:54:07 pm",2015,1.0,$1.00 ,Plain,Manhattan,8th Avenue,City of New York,New York,United States
+336,Nunzio's Pizzeria,40.57794,-74.10259,2015-0506,"May 6th 2015, 4:34:45 pm",2015,2.0,$2.00 ,Plain,Staten Island,Hylan Boulevard,City of New York,New York,United States
+337,Italy Pizza,40.7278729,-73.9528617,2015-0423,"Apr 23rd 2015, 2:03:23 pm",2015,2.75,$2.75 ,Plain,Brooklyn,Manhattan Avenue,City of New York,New York,United States
+338,Pizza & bagel on 3rd,40.66439,-73.99674,2015-0422,"Apr 22nd 2015, 2:46:25 pm",2015,2.25,$2.25 ,Plain,Brooklyn,20th Street,City of New York,New York,United States
+339,City Island Delicatessan Inc,40.852584,-73.789134,2015-0418,"Apr 18th 2015, 4:55:38 pm",2015,2.25,$2.25 ,Plain,Bronx,City Island Avenue,City of New York,New York,United States
+340,Wilbel,40.81289,-73.90205,2015-0418,"Apr 18th 2015, 3:18:18 pm",2015,2.25,$2.25 ,Plain,Bronx,Southern Boulevard,City of New York,New York,United States
+341,Dona Bella Pizza,40.71502562,-74.00775155,2015-0412,"Apr 12th 2015, 5:15:25 pm",2015,2.5,$2.50 ,Plain,Manhattan,Murray Street,City of New York,New York,United States
+342,Anna Maria Pizza,40.71796,-73.95746,2015-0406,"Apr 6th 2015, 2:31:51 pm",2015,2.25,$2.25 ,Plain,Brooklyn,Bedford Avenue,City of New York,New York,United States
+343,Joe's Pizza of The Village,40.667662,-73.9874192,2015-0405,"Apr 5th 2015, 1:18:29 am",2015,2.75,$2.75 ,Plain,Brooklyn,5th Avenue,City of New York,New York,United States
+344,Pizza & Pasta Restaurant,40.7042832,-73.9429234,2015-0324,"Mar 24th 2015, 7:03:21 pm",2015,2.0,$2.00 ,Plain,Brooklyn,Graham Avenue,City of New York,New York,United States
+345,Russ Pizza,40.72646,-73.95244,2015-0302,"Mar 2nd 2015, 4:49:47 pm",2015,2.75,$2.75 ,Plain,Brooklyn,Manhattan Avenue,City of New York,New York,United States
+346,"Portofino Ristorante Forest Hills, Queens",40.71915,-73.83986,2015-0222,"Feb 22nd 2015, 4:38:18 pm",2015,2.45,$2.45 ,Plain,Queens,Queens Boulevard,City of New York,New York,United States
+347,Pepino Pizzeria,40.745328,-73.9033515,2015-0222,"Feb 22nd 2015, 3:20:18 pm",2015,2.5,$2.50 ,Plain,Queens,61st Street,City of New York,New York,United States
+348,Pizza Town,40.68002,-73.97786,2015-0221,"Feb 21st 2015, 2:20:28 pm",2015,2.75,$2.75 ,Plain,Brooklyn,5th Avenue,City of New York,New York,United States
+349,Pizza Di Napoli,40.701088,-73.941023,2015-0219,"Feb 19th 2015, 7:21:28 pm",2015,1.5,$1.50 ,Plain,Brooklyn,Flushing Avenue,City of New York,New York,United States
+350,Pizza Di Napoli,40.701088,-73.941023,2015-0219,"Feb 19th 2015, 7:20:04 pm",2015,2.0,$2.00 ,Pepperoni,Brooklyn,Flushing Avenue,City of New York,New York,United States
+351,Dani's House of Pizza,40.70894,-73.83056,2015-0216,"Feb 16th 2015, 8:49:36 pm",2015,3.0,$3.00 ,Plain,Queens,Lefferts Boulevard,City of New York,New York,United States
+352,Joe's Pizza of The Village,40.6717637,-73.9838561,2015-0207,"Feb 7th 2015, 10:03:36 pm",2015,2.75,$2.75 ,Plain,Brooklyn,5th Avenue,City of New York,New York,United States
+353,Antonio's Pizzeria & Restaurant,40.6769775,-73.9725052,2015-0206,"Feb 6th 2015, 8:38:40 pm",2015,3.25,$3.25 ,Pepperoni,Brooklyn,Flatbush Avenue,City of New York,New York,United States
+354,Antonio's Pizzeria & Restaurant,40.6769775,-73.9725052,2015-0206,"Feb 6th 2015, 8:38:40 pm",2015,2.75,$2.75 ,Plain,Brooklyn,Flatbush Avenue,City of New York,New York,United States
+355,Archie's Pizza,40.6998074,-73.9284114,2015-0206,"Feb 6th 2015, 11:08:56 pm",2015,3.5,$3.50 ,Plain,Brooklyn,Central Avenue,City of New York,New York,United States
+356,Corte Cafe Pizza,40.7138612,-74.00388247,2015-0204,"Feb 4th 2015, 5:25:37 pm",2015,2.5,$2.50 ,Plain,Manhattan,Lafayette Street,City of New York,New York,United States
+357,Little Italy Pizza,40.6982,-73.93769,2015-0127,"Jan 27th 2015, 10:24:34 pm",2015,2.0,$2.00 ,Plain,Brooklyn,Broadway,City of New York,New York,United States
+358,Tony's Pizza Spot,40.69047,-73.96013,2015-0122,"Jan 22nd 2015, 2:33:48 pm",2015,2.25,$2.25 ,Plain,Brooklyn,DeKalb Avenue,City of New York,New York,United States
+359,2 Bros. Pizza,40.73111,-74.00179,2015-0117,"Jan 17th 2015, 8:35:03 pm",2015,1.0,$1.00 ,Plain,Manhattan,6th Avenue,City of New York,New York,United States
+360,"Artichoke Basille's Pizza - East Village, NYC",40.73209,-73.98391,2015-0104,"Jan 4th 2015, 4:51:02 pm",2015,4.5,$4.50 ,Plain,Manhattan,East 14th Street,City of New York,New York,United States
+361,Percy's $1 Pizza,40.72919,-74.00145,2015-0103,"Jan 3rd 2015, 1:53:52 am",2015,1.0,$1.00 ,Plain,Manhattan,Bleecker Street,City of New York,New York,United States
+362,Caesar's Palace Pizza,40.7860815,-73.9758174,2015-0102,"Jan 2nd 2015, 8:41:40 pm",2015,3.0,$3.00 ,Plain,Manhattan,Amsterdam Avenue,City of New York,New York,United States
+363,Carmine and Sons,40.7149322,-73.9441794,2014-1229,"Dec 29th 2014, 8:22:33 pm",2014,2.75,$2.75 ,Plain,Brooklyn,Graham Avenue,City of New York,New York,United States
+364,Ginas Pizzeria,40.65103,-74.00396,2014-1227,"Dec 27th 2014, 6:30:41 pm",2014,2.5,$2.50 ,Plain,Brooklyn,5th Avenue,City of New York,New York,United States
+365,Norberts Pizza,40.69661,-73.93491,2014-1226,"Dec 26th 2014, 9:15:40 pm",2014,2.0,$2.00 ,Plain,Brooklyn,Stuyvesant Avenue,City of New York,New York,United States
+366,Francos Pizza,40.67279,-73.95037,2014-1226,"Dec 26th 2014, 3:53:29 pm",2014,2.25,$2.25 ,Plain,Brooklyn,Nostrand Avenue,City of New York,New York,United States
+367,Vinny vincenz Pizza,40.73113,-73.98296,2014-1224,"Dec 24th 2014, 5:38:19 pm",2014,1.0,$1.00 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+368,$1.00 Pizza,40.6803986,-73.9495349,2014-1222,"Dec 22nd 2014, 9:34:03 pm",2014,1.0,$1.00 ,Plain,Brooklyn,Fulton Street,City of New York,New York,United States
+369,Smiling Pizza,40.6668856,-73.9813704,2014-1220,"Dec 20th 2014, 9:05:09 pm",2014,2.5,$2.50 ,Plain,Brooklyn,7th Avenue,City of New York,New York,United States
+370,Lean Crust,40.6867,-73.97504,2014-1220,"Dec 20th 2014, 2:41:46 pm",2014,3.5,$3.50 ,Pepperoni,Brooklyn,Fulton Street,City of New York,New York,United States
+371,Danny's Pizza II,40.70769661,-73.94348317,2014-1218,"Dec 18th 2014, 6:46:32 pm",2014,2.45,$2.45 ,Plain,Brooklyn,Graham Avenue,City of New York,New York,United States
+372,Iggy's Pizzeria,40.72925,-73.98434,2014-1215,"Dec 15th 2014, 6:58:13 pm",2014,2.5,$2.50 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+373,Joe's Pizza,40.7306597,-74.0021707,2014-1213,"Dec 13th 2014, 3:16:42 pm",2014,3.5,$3.50 ,Pepperoni,Manhattan,Carmine Street,City of New York,New York,United States
+374,Gotham Pizza NYC,40.76302,-73.98536,2014-1211,"Dec 11th 2014, 8:20:27 pm",2014,2.75,$2.75 ,Plain,Manhattan,8th Avenue,City of New York,New York,United States
+375,Nina's Restaurant & Pizzeria,40.72236,-73.94128,2014-1211,"Dec 11th 2014, 2:38:40 pm",2014,2.25,$2.25 ,Plain,Brooklyn,Kingsland Avenue,City of New York,New York,United States
+376,99c Fresh Pizza,40.75814,-73.99234,2014-1204,"Dec 4th 2014, 7:19:13 pm",2014,1.0,$1.00 ,Plain,Manhattan,West 42nd Street,City of New York,New York,United States
+377,Milly's Pizza,40.69911,-73.93932,2014-1203,"Dec 3rd 2014, 6:02:00 pm",2014,2.25,$2.25 ,Plain,Brooklyn,Broadway,City of New York,New York,United States
+378,Little Gio's Pizza,40.72374,-73.9879,2014-1130,"Nov 30th 2014, 2:30:52 pm",2014,2.25,$2.25 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+379,Two Boots Pizza,40.7237135,-73.9849872,2014-1129,"Nov 29th 2014, 7:00:07 am",2014,2.85,$2.85 ,Plain,Manhattan,Avenue A,City of New York,New York,United States
+380,Two Grandpa's Pizza,40.84780692,-73.90714388,2014-1129,"Nov 29th 2014, 3:50:29 pm",2014,2.0,$2.00 ,Plain,Bronx,East 176th Street,City of New York,New York,United States
+381,Samaria Pizzeria,40.76566391,-73.93079401,2014-1129,"Nov 29th 2014, 2:45:07 pm",2014,2.25,$2.25 ,Plain,Queens,Broadway,City of New York,New York,United States
+382,Crispy Pizza,40.64457051,-74.09838494,2014-1128,"Nov 28th 2014, 1:17:14 pm",2014,2.0,$2.00 ,Plain,Staten Island,Clinton Avenue,City of New York,New York,United States
+383,J's Pizza,40.7398164,-73.9989453,2014-1125,"Nov 25th 2014, 10:41:41 pm",2014,3.0,$3.00 ,Pepperoni,Manhattan,West 16th Street,City of New York,New York,United States
+384,Fdr 99 Cent Slice Pizza,40.72299,-73.98549,2014-1123,"Nov 23rd 2014, 8:12:19 pm",2014,1.0,$1.00 ,Plain,Manhattan,East 2nd Street,City of New York,New York,United States
+385,Neighborhood Pizza,40.66023,-73.8306099,2014-1123,"Nov 23rd 2014, 2:13:14 pm",2014,2.75,$2.75 ,Plain,Queens,Coleman Square,City of New York,New York,United States
+386,Norberts Pizza,40.69661,-73.93491,2014-1122,"Nov 22nd 2014, 9:25:32 pm",2014,2.0,$2.00 ,Plain,Brooklyn,Stuyvesant Avenue,City of New York,New York,United States
+387,Pranzo,40.70331,-74.01069,2014-1121,"Nov 21st 2014, 3:30:41 pm",2014,2.5,$2.50 ,Plain,Manhattan,Water Street,City of New York,New York,United States
+388,IL Porto: Brick Oven Pizza and Ristorante,40.6974427,-73.9675197,2014-1121,"Nov 21st 2014, 1:11:10 pm",2014,2.75,$2.75 ,Plain,Brooklyn,Washington Avenue,City of New York,New York,United States
+389,La Traviata Pizzeria,40.77505,-73.98088,2014-1118,"Nov 18th 2014, 9:24:00 pm",2014,2.71,$2.71 ,Plain,Manhattan,West 68th Street,City of New York,New York,United States
+390,Little Italy Pizza III,40.734771,-73.992288,2014-1116,"Nov 16th 2014, 4:36:43 pm",2014,2.75,$2.75 ,Plain,Manhattan,University Place,City of New York,New York,United States
+391,Williamsburg Pizza LES,40.71822,-73.99123,2014-1114,"Nov 14th 2014, 2:33:03 pm",2014,2.75,$2.75 ,Plain,Manhattan,Allen Street,City of New York,New York,United States
+392,Mariella Pizza,40.73507,-73.98612,2014-1112,"Nov 12th 2014, 9:50:46 pm",2014,3.0,$3.00 ,Plain,Manhattan,3rd Avenue,City of New York,New York,United States
+393,Lucia Pizza,40.76032,-73.82813,2014-1109,"Nov 9th 2014, 9:13:48 pm",2014,2.5,$2.50 ,Sicilian,Queens,Roosevelt Avenue,City of New York,New York,United States
+394,Pizza Pasta Restaurant,40.7042832,-73.9429234,2014-1104,"Nov 4th 2014, 6:30:37 pm",2014,1.0,$1.00 ,Plain,Brooklyn,Graham Avenue,City of New York,New York,United States
+395,Tom's Delicious Pizza,40.8148961,-73.9593332,2014-1102,"Nov 2nd 2014, 4:44:30 pm",2014,2.5,$2.50 ,Plain,Manhattan,Broadway,City of New York,New York,United States
+396,Makkah Pizza,40.81876,-73.9378,2014-1102,"Nov 2nd 2014, 1:49:50 pm",2014,2.25,$2.25 ,Plain,Manhattan,Malcolm X Boulevard,City of New York,New York,United States
+397,Best Pizza of 1st Avenue,40.75796,-73.96295,2014-1102,"Nov 2nd 2014, 1:01:50 pm",2014,2.5,$2.50 ,Plain,Manhattan,1st Avenue,City of New York,New York,United States
+398,99 Cents Famous Pizza,40.73061,-73.98123,2014-1101,"Nov 1st 2014, 6:24:44 pm",2014,1.0,$1.00 ,Plain,Manhattan,East 14th Street,City of New York,New York,United States
+399,Mike's Pizza,40.6958,-73.94656,2014-1030,"Oct 30th 2014, 8:34:49 pm",2014,2.0,$2.00 ,Plain,Brooklyn,Myrtle Avenue,City of New York,New York,United States
+400,Bergen Pizza,40.680524,-73.974394,2014-1029,"Oct 29th 2014, 9:57:14 pm",2014,2.5,$2.50 ,Plain,Brooklyn,6th Avenue,City of New York,New York,United States
+401,Douma,40.72254,-73.99239,2014-1029,"Oct 29th 2014, 6:38:14 pm",2014,2.5,$2.50 ,Plain,Manhattan,Stanton Street,City of New York,New York,United States
+402,Brooklyn Harvest Market,40.70677704,-73.95036416,2014-1027,"Oct 27th 2014, 9:56:18 pm",2014,2.0,$2.00 ,Plain,Brooklyn,Union Avenue,City of New York,New York,United States
+403,Williamsburg Pizza LES,40.71822,-73.99123,2014-1027,"Oct 27th 2014, 1:23:30 pm",2014,2.75,$2.75 ,Plain,Manhattan,Allen Street,City of New York,New York,United States
+404,Lower East Side Pizza,40.713945,-73.989104,2014-1026,"Oct 26th 2014, 7:34:56 pm",2014,2.0,$2.00 ,Plain,Manhattan,East Broadway,City of New York,New York,United States
+405,Bosco Pizza,40.692845,-73.94033,2014-1021,"Oct 21st 2014, 7:46:25 pm",2014,2.25,$2.25 ,Plain,Brooklyn,DeKalb Avenue,City of New York,New York,United States
+406,Norberts Pizza,40.69661,-73.93491,2014-1021,"Oct 21st 2014, 10:02:57 pm",2014,2.0,$2.00 ,Plain,Brooklyn,Stuyvesant Avenue,City of New York,New York,United States
+407,Liberty Pizza,40.69334,-73.96604,2014-1020,"Oct 20th 2014, 7:46:04 pm",2014,2.5,$2.50 ,Plain,Brooklyn,Myrtle Avenue,City of New York,New York,United States
+408,Angelica Pizzeria & Restaurant,40.68789,-73.9815799,2014-1018,"Oct 18th 2014, 3:55:56 pm",2014,2.0,$2.00 ,Plain,Brooklyn,Nevins Street,City of New York,New York,United States
+409,"Domenico's Pizza & Pasta, Amboy Road",40.5256981,-74.2019284,2014-1018,"Oct 18th 2014, 10:44:30 pm",2014,2.5,$2.50 ,Plain,Staten Island,Amboy Road,City of New York,New York,United States
+410,Luigi Pizzeria,40.68965,-73.96544,2014-1016,"Oct 16th 2014, 7:18:18 pm",2014,3.0,$3.00 ,Pepperoni,Brooklyn,DeKalb Avenue,City of New York,New York,United States
+411,Luigi Pizzeria,40.68965,-73.96544,2014-1016,"Oct 16th 2014, 7:17:41 pm",2014,2.5,$2.50 ,Plain,Brooklyn,DeKalb Avenue,City of New York,New York,United States
+412,Dee's & L Pizza Plus,40.67385512,-73.79105453,2014-1012,"Oct 12th 2014, 2:29:54 pm",2014,2.0,$2.00 ,Plain,Queens,147th Street,City of New York,New York,United States
+413,L&B Spumoni Gardens,40.59467782,-73.98143284,2014-1008,"Oct 8th 2014, 7:11:39 pm",2014,2.5,$2.50 ,Sicilian,Brooklyn,86th Street,City of New York,New York,United States
+414,L&B Spumoni Gardens,40.59467782,-73.98143284,2014-1008,"Oct 8th 2014, 7:11:02 pm",2014,2.5,$2.50 ,Plain,Brooklyn,86th Street,City of New York,New York,United States
+415,Roccos Pizza Joint,40.7422899,-73.99739,2014-1006,"Oct 6th 2014, 8:10:08 pm",2014,2.75,$2.75 ,Plain,Manhattan,West 20th Street,City of New York,New York,United States
+416,Cafe Au Lee,40.70224,-73.95586,2014-1006,"Oct 6th 2014, 6:47:18 pm",2014,2.75,$2.75 ,Plain,Brooklyn,Lee Avenue,City of New York,New York,United States
+417,Ani Pizza Palace,40.76631,-73.90881,2014-1005,"Oct 5th 2014, 3:50:40 pm",2014,2.5,$2.50 ,Plain,Queens,44th Street,City of New York,New York,United States
+418,Cozzi Pizza,40.70377,-73.94749,2014-1002,"Oct 2nd 2014, 8:14:27 pm",2014,2.0,$2.00 ,Plain,Brooklyn,Broadway,City of New York,New York,United States
+419,Pronto Pizza,40.64055,-74.11611,2014-0928,"Sep 28th 2014, 12:30:45 pm",2014,2.5,$2.50 ,Plain,Staten Island,Markham Drive,City of New York,New York,United States
+420,La Rondine,40.7132665,-73.8290606,2014-0927,"Sep 27th 2014, 5:10:56 pm",2014,2.25,$2.25 ,Plain,Queens,Queens Boulevard,City of New York,New York,United States
+421,Williamsburg Pizza,40.707952,-73.950806,2014-0926,"Sep 26th 2014, 7:43:08 pm",2014,2.75,$2.75 ,Plain,Brooklyn,Union Avenue,City of New York,New York,United States
+422,Coffee break,40.69473,-73.9559,2014-0923,"Sep 23rd 2014, 6:29:51 pm",2014,2.75,$2.75 ,Plain,Brooklyn,Myrtle Avenue,City of New York,New York,United States
+423,Sunnyside Pizza,40.7440727,-73.9240104,2014-0922,"Sep 22nd 2014, 12:25:52 pm",2014,2.5,$2.50 ,Plain,Queens,Queens Boulevard,City of New York,New York,United States
+424,Di Fara Pizza,40.62508413,-73.96155206,2014-0921,"Sep 21st 2014, 4:11:32 pm",2014,5.0,$5.00 ,Plain,Brooklyn,Avenue J,City of New York,New York,United States
+425,New Park Pizza,40.663039,-73.840549,2014-0919,"Sep 19th 2014, 6:37:12 pm",2014,2.75,$2.75 ,Plain,Queens,Cross Bay Boulevard,City of New York,New York,United States
+426,Muzzarella Pizza,40.73021,-73.98069,2014-0919,"Sep 19th 2014, 11:35:29 pm",2014,2.5,$2.50 ,Plain,Manhattan,Avenue A,City of New York,New York,United States
+427,Domenick's Pizza,40.7051442,-73.8097067,2014-0919,"Sep 19th 2014, 1:22:02 pm",2014,2.0,$2.00 ,Plain,Queens,Sutphin Boulevard,City of New York,New York,United States
+428,Goodfellas Pizzeria & Italian Restaurant,40.88705436,-73.90423987,2014-0916,"Sep 16th 2014, 10:33:20 pm",2014,3.0,$3.00 ,Plain,Bronx,Waldo Avenue,City of New York,New York,United States
+429,South Shore Pizza,40.622787,-73.7435809,2014-0914,"Sep 14th 2014, 5:50:38 pm",2014,3.0,$3.00 ,Plain,,Burnside Avenue,,New York,United States
+430,Margherita Pizza Inc,40.70453082,-73.79679273,2014-0914,"Sep 14th 2014, 5:07:17 pm",2014,3.0,$3.00 ,Plain,Queens,Jamaica Avenue,City of New York,New York,United States
+431,Ray's Bagel Café & Pizza,40.72929,-73.98965,2014-0913,"Sep 13th 2014, 5:35:44 pm",2014,2.75,$2.75 ,Plain,Manhattan,Saint Mark's Place,City of New York,New York,United States
+432,Champion Pizza,40.71962375,-73.98755917,2014-0910,"Sep 10th 2014, 9:23:19 pm",2014,1.0,$1.00 ,Plain,Manhattan,Norfolk Street,City of New York,New York,United States
+433,East Side Brick Oven Pizza,40.7671973,-73.9624705,2014-0908,"Sep 8th 2014, 2:42:55 pm",2014,2.75,$2.75 ,Plain,Manhattan,3rd Avenue,City of New York,New York,United States
+434,Pisa Pizzeria,40.70139127,-73.88815017,2014-0908,"Sep 8th 2014, 12:01:04 pm",2014,2.5,$2.50 ,Plain,Queens,Myrtle Avenue,City of New York,New York,United States
+435,Two Boots to Go-Go,40.72642453,-73.99558888,2014-0907,"Sep 7th 2014, 9:59:59 pm",2014,2.85,$2.85 ,Plain,Manhattan,Bleecker Street,City of New York,New York,United States
+436,Triangolo Pizzeria,40.73364,-73.95499,2014-0907,"Sep 7th 2014, 7:03:46 pm",2014,2.5,$2.50 ,Plain,Brooklyn,Manhattan Avenue,City of New York,New York,United States
+437,Luigi's Pizza,40.66163,-73.99334,2014-0906,"Sep 6th 2014, 4:40:54 pm",2014,2.25,$2.25 ,Plain,Brooklyn,5th Avenue,City of New York,New York,United States
+438,Royal Pizza Myrtle Ave,40.6997372,-73.9082459,2014-0903,"Sep 3rd 2014, 7:27:03 pm",2014,2.5,$2.50 ,Plain,Queens,Myrtle Avenue,City of New York,New York,United States
+439,Ganni's Pizza,40.69428,-73.95783,2014-0902,"Sep 2nd 2014, 7:30:44 pm",2014,2.25,$2.25 ,Plain,Brooklyn,Myrtle Avenue,City of New York,New York,United States
+440,Rocco Pizza,40.69211,-73.94583,2014-0901,"Sep 1st 2014, 1:26:08 pm",2014,2.25,$2.25 ,Plain,Brooklyn,DeKalb Avenue,City of New York,New York,United States
+441,Roebling Pizza,40.70859,-73.96116,2014-0831,"Aug 31st 2014, 5:58:36 pm",2014,2.5,$2.50 ,Plain,Brooklyn,Roebling Street,City of New York,New York,United States
+442,Pizza Mercato Waverly,40.730121,-73.994108,2014-0830,"Aug 30th 2014, 3:24:19 pm",2014,2.25,$2.25 ,Plain,Manhattan,Waverly Place,City of New York,New York,United States
+443,Prince St. Pizza,40.723,-73.99458,2014-0828,"Aug 28th 2014, 7:17:39 pm",2014,2.95,$2.95 ,Plain,Manhattan,Prince Street,City of New York,New York,United States
+444,Village Pizza,40.73925,-74.00312,2014-0827,"Aug 27th 2014, 7:53:47 pm",2014,2.5,$2.50 ,Plain,Manhattan,8th Avenue,City of New York,New York,United States
+445,69 pizzeria,40.737014,-73.89564,2014-0827,"Aug 27th 2014, 2:48:38 pm",2014,2.25,$2.25 ,Plain,Queens,50th Avenue,City of New York,New York,United States
+446,Fdr 99 Cent Slice Pizza,40.72299,-73.98549,2014-0826,"Aug 26th 2014, 8:03:09 pm",2014,1.0,$1.00 ,Plain,Manhattan,East 2nd Street,City of New York,New York,United States
+447,Alphonso's Pizzeria & Trattoria - Pizza Shack,40.714338,-73.981708,2014-0826,"Aug 26th 2014, 6:49:59 pm",2014,2.25,$2.25 ,Plain,Manhattan,Grand Street,City of New York,New York,United States
+448,Saluggi's,40.72011,-74.00358,2014-0826,"Aug 26th 2014, 4:53:54 pm",2014,3.75,$3.75 ,Pepperoni,Manhattan,Church Street,City of New York,New York,United States
+449,Mimi's Pizza,40.7786199,-73.9529045,2014-0826,"Aug 26th 2014, 3:15:06 pm",2014,3.0,$3.00 ,Plain,Manhattan,East 86th Street,City of New York,New York,United States
+450,Luna Pizza,40.71350162,-73.99854598,2014-0823,"Aug 23rd 2014, 7:50:42 pm",2014,2.75,$2.75 ,Plain,Manhattan,Oliver Street,City of New York,New York,United States
+451,Joe's Pizza,40.7306597,-74.0021707,2014-0823,"Aug 23rd 2014, 7:15:42 pm",2014,2.75,$2.75 ,Plain,Manhattan,Carmine Street,City of New York,New York,United States
+452,Carmine's Original Pizza,40.72555137,-73.95147023,2014-0820,"Aug 20th 2014, 2:03:17 pm",2014,3.25,$3.25 ,Pepperoni,Brooklyn,Norman Avenue,City of New York,New York,United States
+453,Carmine's Original Pizza,40.72555137,-73.95147023,2014-0820,"Aug 20th 2014, 2:03:17 pm",2014,2.25,$2.25 ,Plain,Brooklyn,Norman Avenue,City of New York,New York,United States
+454,2 Bros. Pizza,40.75654884,-73.98080221,2014-0819,"Aug 19th 2014, 6:32:55 pm",2014,1.09,$1.09 ,Plain,Manhattan,West 46th Street,City of New York,New York,United States
+455,Two Boots Pizza Williamsburg,40.71696,-73.95668,2014-0819,"Aug 19th 2014, 1:38:09 pm",2014,4.0,$4.00 ,Meatball,Brooklyn,Driggs Avenue,City of New York,New York,United States
+456,South Brooklyn Pizza,40.67759,-73.99804,2014-0817,"Aug 17th 2014, 8:52:39 pm",2014,4.0,$4.00 ,Margherita,Brooklyn,Court Street,City of New York,New York,United States
+457,Cassiano's Pizza,40.7594817,-73.9682781,2014-0816,"Aug 16th 2014, 6:53:29 pm",2014,3.05,$3.05 ,Plain,Manhattan,3rd Avenue,City of New York,New York,United States
+458,Best Pizza,40.71561,-73.95352,2014-0815,"Aug 15th 2014, 2:11:14 pm",2014,3.25,$3.25 ,Plain,Brooklyn,Havemeyer Street,City of New York,New York,United States
+459,Best Pizza,40.71561,-73.95352,2014-0815,"Aug 15th 2014, 2:06:11 pm",2014,3.75,$3.75 ,White,Brooklyn,Havemeyer Street,City of New York,New York,United States
+460,Tony's Pizza,40.715054,-73.9446961,2014-0814,"Aug 14th 2014, 3:11:14 pm",2014,2.75,$2.75 ,Plain,Brooklyn,Graham Avenue,City of New York,New York,United States
+461,Bleecker Street Pizza,40.73226681,-74.00341905,2014-0813,"Aug 13th 2014, 7:26:31 pm",2014,2.75,$2.75 ,Plain,Manhattan,7th Avenue South,City of New York,New York,United States
+462,Chai Pizza Sushi Cafe,40.6977,-73.9599099,2014-0812,"Aug 12th 2014, 6:01:55 pm",2014,2.75,$2.75 ,Plain,Brooklyn,Kent Avenue,City of New York,New York,United States
+463,Alphonso's Pizzeria & Trattoria - Pizza Shack,40.714338,-73.981708,2014-0810,"Aug 10th 2014, 3:03:13 pm",2014,2.25,$2.25 ,Plain,Manhattan,Grand Street,City of New York,New York,United States
+464,Frank's Pizza,40.61772,-73.93174,2014-0809,"Aug 9th 2014, 6:17:39 pm",2014,2.55,$2.55 ,Plain,Brooklyn,Flatbush Avenue,City of New York,New York,United States
+465,Bona Pizza,40.64097667,-73.95627033,2014-0809,"Aug 9th 2014, 1:31:51 pm",2014,2.0,$2.00 ,Plain,Brooklyn,Flatbush Avenue,City of New York,New York,United States
